@@ -66,7 +66,7 @@
                     
          
                 
-                          <div style="position:relative; display:none;" class="vvv"> <img alt="JIM students" title="JIM students" width="50" height="500" src="https://jim.ac.in/images/Gallery/OLD%20JIM/2007/4-1626676037.jpg">
+                          <div style="position:relative; display:none;" class="vvv"> <img alt="JIM students" title="JIM students" width="50" height="500" src="https://jim.ac.in/images/Exe-Director.jpg">
               <div class="transform_content for-home-mobile">
                 <div class="transform_table">
                   <div class="tranform_table_cell slider11">
@@ -81,7 +81,8 @@
                 </div>
               </div>
             </div>
-                          <div style="position:relative; display:none;" class="vvv"> <img alt="JIM students" title="JIM students" width="50" height="500" src="https://jim.ac.in/images/Gallery/Infrastructure/2021/110A0438_1200x850%20(2)-1626678909.jpg">
+            <div style="position:relative; display:none;" class="vvv"> 
+            <img alt="JIM students" title="JIM students" width="50" height="500" src="https://jim.ac.in/images/Gallery/Infrastructure/2021/110A9970_1200x850%20(2)-1626678909.jpg">
               <div class="transform_content for-home-mobile">
                 <div class="transform_table">
                   <div class="tranform_table_cell slider12">
@@ -245,8 +246,9 @@ top: 2px;
     border-left-color: #0091c4;
 }
 
+
 .slick-dotted.slick-slider {
-    margin-bottom: -125px;
+    margin-bottom: -100px;
 }
 .tabcontent-col1 {
 	display: none;
@@ -842,6 +844,9 @@ font-size: 1.8vw;
     height: 377px;
 }
 }
+section.regular.slider.slick-initialized.slick-slider.slick-dotted {
+    margin-bottom: 1px;
+}
 </style>   
   
   
@@ -1022,19 +1027,30 @@ document.getElementById("defaultOpen").click();
         
          
       </section>
-      <section class="panel management management-new common-padding ranked-main" data-section-name="management">
+      <section class="panel management management-new common-padding ranked-main" data-section-name="management" height="500px">
 <div class="custom-container-inner">
 <div class="row ranked-row">
 <div class="col-md-6 left-rank">
-<div class="main-head-main"><span>Globally Benchmarked.</span></div>
+<div class="main-head-main">
+    <!-- <span>Sample Text.</span> -->
+    </div>
 
 <div class="left-ranking padding-top50 ranked-mobile">
 <div class="row mobile-event-row-ranking">
 
+<!-- <div class="col-md-3 text-center mobile_panel_ranking first">
+    <div class="logo-ranking">
+        <div class="table-cell-img table-cell-img-first"><img alt="AMBA Association logo" src="https://jim.ac.in/Placement/recruiters/P-2.jpg" title="AMBA Association logo" />
+        </div>
+    </div>
+</div> -->
 <div class="col-md-3 text-center mobile_panel_ranking first">
 <div class="logo-ranking">
-<div class="table-cell-img table-cell-img-first"><img alt="AMBA Association logo" src="https://jim.ac.in/Placement/recruiters/P-2.jpg" title="AMBA Association logo" /></div>
+<div class="table-cell-img table-cell-img-first"><img alt="AMBA Association logo" src="uploads/article/aicte_logo-1.jpg" title="AMBA Association logo" /></div>
+
+
 </div>
+
 </div>
 
 
@@ -1056,7 +1072,7 @@ document.getElementById("defaultOpen").click();
 <div class="inner_numericals">
 <h2>3<sup>rd</sup></h2>
 
-<p>BY <b style="color:#4caf50; font-weight:600;">OUTLOOK INDIA</b> <span>TOP STANDALONE INSTITUTION</span></p>
+<p>BY <b style="color:#4caf50; font-weight:600;">OUTLOOK INDIA</b> </p>
 </div>
 </div>
 
@@ -1064,7 +1080,7 @@ document.getElementById("defaultOpen").click();
 <div class="inner_numericals">
 <h2>9<sup>th</sup></h2>
 
-<p>BY <b style="color:#4caf50; font-weight:600;">BUSINESS WORLD</b> <span>ONE YEAR PROGRAMS</span></p>
+<p>BY <b style="color:#4caf50; font-weight:600;">BUSINESS WORLD</b> </p>
 </div>
 </div>
 
@@ -1072,8 +1088,9 @@ document.getElementById("defaultOpen").click();
 <div class="inner_numericals">
 <h2>9<sup>th</sup></h2>
 
-<p>BY <b style="color:#4caf50; font-weight:600;">BUSINESS INDIA</b> <span>TOP B-SCHOOLS</span></p>
+<p>TOP INDIAN B-SCHOOLS </p>
 </div>
+</divY <b style="color:#4caf50; font-weight:600;"></b> </p>
 </div>
 </div>
 </div>
@@ -1115,7 +1132,7 @@ document.getElementById("defaultOpen").click();
                             <div class="col-lg-8 event_right">
                             <div class="text_right_up events-div-col">
                                                  <p>
-                            <a  href="distinguished-thought-leader-series-prabhakant-sinha.html" target="_blank"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</a></p>
+                            <a  href="distinguished-thought-leader-series-prabhakant-sinha.html" target="_blank"> Srinivasa Raja MD of Adyar Ananda Bhavan shares his life Success</a></p>
                                                       </div>
                             </div>
                         </div>
@@ -1132,7 +1149,7 @@ document.getElementById("defaultOpen").click();
                             <div class="col-lg-8 event_right">
                             <div class="text_right_up events-div-col">
                                                  <p>
-                            <a  href="distinguished-thought-leader-series-vijay-govindarajan.html" target="_blank"> Ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</a></p>
+                            <a  href="distinguished-thought-leader-series-vijay-govindarajan.html" target="_blank"> Prof.John Kennady Anthropomorphism and Dehumanization in Marketing.</a></p>
                                                       </div>
                             </div>
                         </div>
@@ -1149,7 +1166,7 @@ document.getElementById("defaultOpen").click();
                             <div class="col-lg-8 event_right">
                             <div class="text_right_up events-div-col">
                                                  <p>
-                            <a  href="distinguished-thought-leader-series-ann-l-mcgill.html" target="_blank">"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium." </a></p>
+                            <a  href="distinguished-thought-leader-series-ann-l-mcgill.html" target="_blank">Farewell party arranged on behalf of outgoing students</a></p>
                                                       </div>
                             </div>
                         </div>
@@ -1163,12 +1180,17 @@ document.getElementById("defaultOpen").click();
             
                         <div class="col-lg-4 col-md-4 col-sm-12 mobile_margin mobile_focus ">
             	<div class="inner_upcoming_events">
-    <div class="upcoming_img"><a  href="in-media/the-indian-unicorns-how-disruptions-shape-their-business-models-dr-suresh-srinivasan.html" target="_blank"><img height="280" src="https://jim.ac.in/images/Management/Rector.jpg" alt="" title=""/> </a></div>
+    <div class="upcoming_img"><a  href="in-media/the-indian-unicorns-how-disruptions-shape-their-business-models-dr-suresh-srinivasan.html" target="_blank"><img height="280" src="https://jim.ac.in/images/Gallery/Infrastructure/2021/DSC_0131_1200x850-1626519050.jpg" alt="" title=""/> </a></div>
+    
     <div class="upcoming_text_holder upcoming_text_holder_left upcoming_text_holder_right focus-div-col"  style="background-color:#f7f7f7;">
-<div class="table">
+    <div class="" >
+   <input class="" type="button" value="Life @ JIM" style="margin-top:50px,!important;" /></div>
+    <div class="table">
+    
 <div class="table-cell">
+    
     <a  href="in-media/the-indian-unicorns-how-disruptions-shape-their-business-models-dr-suresh-srinivasan.html" target="_blank">
-                    	<p><p class="blacktext">As we usher in the celebration of 175 years of service to the nation by our St. Joseph`s College, we are grateful to God for all the blessings received from Him. - Rev.Dr.Leonard Fernando SJ</p>
+                    	<p><p class="blacktext">JIM, an evolving management institute, rich in social welfare values, gained its shape and structure from Jesuits to explore research in business management and administration.</p>
 
 <div class="button-div-col"><a href="in-media/the-indian-unicorns-how-disruptions-shape-their-business-models-dr-suresh-srinivasan.html" target="_blank"><input class="button-div-col-1" type="button" value="Read More" /></a></div>
 </p>
@@ -1183,14 +1205,16 @@ document.getElementById("defaultOpen").click();
             </div>
                                   <div class="col-lg-4 col-md-4 col-sm-12 mobile_margin mobile_focus ">
             	<div class="inner_upcoming_events">
-    <div class="upcoming_img"><a  href="in-media/prof-vidya-mahambare-speaks-on-bbcs-world-business-report.html" target="_blank"><img src="https://jim.ac.in/images/Exe-Director.jpg" alt="" title=""/> </a></div>
+    <div class="upcoming_img"><a  href="in-media/prof-vidya-mahambare-speaks-on-bbcs-world-business-report.html" target="_blank"><img height="280" src="https://jim.ac.in/images/Gallery/Infrastructure/2021/110A9670_1200x850%20(2)-1626678909.jpg" alt="" title=""/> </a></div>
     <div class="upcoming_text_holder upcoming_text_holder_left upcoming_text_holder_right focus-div-col"  style="background-color:#4caf50;">
-<div class="table">
+    <div class="" >
+   <input class="" type="button" value="Learning" style="margin-top:50px,!important;" /></div>
+   <div class="table">
 <div class="table-cell">
     <a  href="in-media/prof-vidya-mahambare-speaks-on-bbcs-world-business-report.html" target="_blank">
-                    	<p><p>I am happy to meet you with this message. - Rev. Dr. P. Paulraj SJ</p>
+                    	<p><p>The curriculum intertwines the academic needs and the demands of the industry, challenging the capability and uniqueness of every student.Teaching and learning are nonconventional.</p>
 
-<p class="name">https://jim.ac.in/</p>
+
 
 <div class="button-div-col"><a href="in-media/false-notions-of-gender-roles-should-be-corrected-early-dr-vidya-mahambare.html" target="_blank"><input type="button" value="Read More" /></a></div>
 </p>
@@ -1219,11 +1243,11 @@ document.getElementById("defaultOpen").click();
             	<div class="inner_upcoming_events">
           <div class="upcoming_img">  <a  href="in-media/distinguished-thought-leader-session-with-mr-narayana-murthy.html" target="_blank"><img src="uploads/article/narayana-murthy1.jpg" alt="" title=""/></a></div>
           <div class="upcoming_text_holder upcoming_text_holder_left upcoming_text_holder_right focus-div-col"  style="background-color:#f7f7f7;">
-<div class="table">
+          <input class="" type="button" value="Training & Placement" style="margin-top:50px,!important;" /><div class="table">
 <div class="table-cell">
-                    <a  href="in-media/distinguished-thought-leader-session-with-mr-narayana-murthy.html" target="_blank">	<p><p class="blacktext">An Interactive Session with Distinguished Thought Leader - Mr. Narayana Murthy</p>
+                    <a  href="in-media/distinguished-thought-leader-session-with-mr-narayana-murthy.html" target="_blank">	<p><p class="blacktext">Personal growth and interpersonal skills are coached at workshops by experts. Mentor’s guide and support the students progressively.</p>
 
-<p class="blacktext name">Times of India</p>
+
 
 <div class="button-div-col"><a href="in-media/distinguished-thought-leader-session-with-mr-narayana-murthy.html" target="_blank"><input class="button-div-col-1" type="button" value="Read More" /></a></div>
 </p>
@@ -1244,13 +1268,16 @@ document.getElementById("defaultOpen").click();
           
         <div class="col-lg-4 col-md-4 col-sm-12 mobile_margin mobile_focus ">
             	<div class="inner_upcoming_events">
-          <div class="upcoming_img">  <a  href="in-media/covid-impact-on-household-budgets-professors-trichy-krishnan-ashish-rathore-suresh-ramanathan.html" target="_blank"><img src="uploads/article/covid-impact-on-household-budgets-professors-trichy-krishnan-ashish-rathore-suresh-ramanathan.jpg" alt="" title=""/></a></div>
-          <div class="upcoming_text_holder upcoming_text_holder_left upcoming_text_holder_right focus-div-col"  style="background-color:#4caf50;">
-<div class="table">
-<div class="table-cell">
-                    <a  href="in-media/covid-impact-on-household-budgets-professors-trichy-krishnan-ashish-rathore-suresh-ramanathan.html" target="_blank">	<p><p>COVID Impact on Household Budgets - Professors Trichy Krishnan, Ashish Rathore &amp; Suresh Ramanathan</p>
+          <div class="upcoming_img"> <iframe width="370" height="245" src="https://youtube.com/embed/lL6l7_BbFcI">
+</iframe></div>
+          <div class="upcoming_text_holder upcoming_text_holder_left upcoming_text_holder_right focus-div-col"  style="background-color:#4caf50;margin-top:-10px">
+          <input class="" type="button" value="CAMPUS LIFE" style="margin-top:50px,!important;" />
 
-<p class="name">The Hindu BusinessLine</p>
+          <div class="table">
+<div class="table-cell">
+                    <a  href="in-media/covid-impact-on-household-budgets-professors-trichy-krishnan-ashish-rathore-suresh-ramanathan.html" target="_blank">	<p><p>JIM is a campus of eco-friendly environment that empowers to attain the life of harmony to reach destiny.</p>
+
+
 
 <div class="button-div-col"><a href="in-media/covid-impact-on-household-budgets-professors-trichy-krishnan-ashish-rathore-suresh-ramanathan.html" target="_blank"><input type="button" value="Read More" /></a></div>
 </p>
@@ -1271,13 +1298,15 @@ document.getElementById("defaultOpen").click();
           
         <div class="col-lg-4 col-md-4 col-sm-12 mobile_margin mobile_focus ">
             	<div class="inner_upcoming_events">
-          <div class="upcoming_img">  <a  href="in-media/how-did-indian-households-cope-with-the-covid-crisis-professors-vidya-mahambare-trichy-krishnan-ranjitha-a-udaya-n-suresh-ramanathan.html" target="_blank"><img src="uploads/article/how-did-indian-households-cope-with-the-covid-crisis-professors-vidya-mahambare-trichy-krishnan-ranjitha-a-udaya-n-suresh-ramanathan.jpg" alt="" title=""/></a></div>
+          <div class="upcoming_img">  <a  href="in-media/how-did-indian-households-cope-with-the-covid-crisis-professors-vidya-mahambare-trichy-krishnan-ranjitha-a-udaya-n-suresh-ramanathan.html" target="_blank"><img src="https://jim.ac.in/images/Gallery/Infrastructure/2021/5-1626518496.jpg" alt="" title="" height="235px"/></a></div>
           <div class="upcoming_text_holder upcoming_text_holder_left upcoming_text_holder_right focus-div-col"  style="background-color:#f7f7f7;">
-<div class="table">
-<div class="table-cell">
-                    <a  href="in-media/how-did-indian-households-cope-with-the-covid-crisis-professors-vidya-mahambare-trichy-krishnan-ranjitha-a-udaya-n-suresh-ramanathan.html" target="_blank">	<p><p class="blacktext">How did Indian households cope with the COVID crisis? - Professors Vidya Mahambare, Trichy Krishnan, Ranjitha A, Udaya N, Suresh Ramanathan</p>
+          <input class="" type="button" value="About JIM" style="margin-top:50px,!important;" />
 
-<p class="blacktext name">ET BrandEquity</p>
+          <div class="table">
+<div class="table-cell">
+                    <a  href="in-media/how-did-indian-households-cope-with-the-covid-crisis-professors-vidya-mahambare-trichy-krishnan-ranjitha-a-udaya-n-suresh-ramanathan.html" target="_blank">	<p><p class="blacktext">St. Joseph’s Institute of Management (JIM) is a Jesuit Business School. JIM is approved by AICTE, New Delhi, India and affiliated to Bharathidasan University, Tiruchirappalli, Tamil Nadu.</p>
+
+
 
 <div class="button-div-col"><a href="in-media/how-did-indian-households-cope-with-the-covid-crisis-professors-vidya-mahambare-trichy-krishnan-ranjitha-a-udaya-n-suresh-ramanathan.html" target="_blank"><input class="button-div-col-1" type="button" value="Read More" /></a></div>
 </p>
@@ -1328,7 +1357,7 @@ document.getElementById("defaultOpen").click();
 <div class="inner-pgpm-pgdm inner-pgpm-pgdm2 pgpm-text">
 <div class="main-head-main pgpm-mobile-heading"><span>MBA</span></div>
 
-<p>One year program to make you business ready and take your career to a higher growth trajectory. For candidates with work experience.</p>
+<p>Two year program to make you business ready and take your career to a higher growth trajectory. For candidates with work experience.</p>
 <!--<div class="admissions-open">Application Deadline: 10<sup>th</sup> March 2021</div>-->
 
 <div class="common-btn white-color"><a class="tabpgpmlm" href="pgpm.html" id="pgpm-learn">Learn More </a> <a class="button-pgpm tabpgpman" href="https://app.greatlakes.edu.in/" id="pgpm-apply" target="_blank">Apply Now</a> <a href="pgpm/webinars.html">Attend Webinar</a></div>
@@ -1409,18 +1438,30 @@ document.getElementById("defaultOpen").click();
       
 <section class="vission vission-new-col">
 <div class="custom-container-inner">
-<h2>Vision</h2>
+<h2>Our Vision</h2>
 
-<p class="vision-div-col">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+<p class="vision-div-col">"To form responsible leaders who are globally competent to lead a life based on values."
 
 </p>
 
-<h2>Mission</h2>
+<h2>Our Mission</h2>
 
-<p class="vission-bottom">"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt"</p>
+<p class="vision-div-col">"To provide learning environment for integral development of individuals who have the right attitude, relevant skills and needed knowledge to adapt to corporate world.To remain as a centre of learning by innovative pedagogy, appropriate exposure to industries and cutting edge academic strategies.To contribute to the field of business education and industries through research, training, and consultancy."</p>
+
+<h2>Our Core Values</h2>
+
+<ul class="fa-ul">
+  <li><span class="fa-li"><i class="fa fa-check-square"></i></span>List icons can</li>
+  <li><span class="fa-li"><i class="fa fa-check-square"></i></span>be used to</li>
+  <li><span class="fa-li"><i class="fa fa-check-square"></i></span>replace bullets</li>
+  <li><span class="fa-li"><i class="fa fa-check-square"></i></span>in lists</li>
+</ul>
 </div>
 </section>     
-
+      
+       
+      
+      
       <section class="common-padding testimonial_New testimonial-main" id="gls">
         <div class="container-custom">
         <div class="main-head-main slider-heading">Testimonials</div>
@@ -1430,7 +1471,7 @@ document.getElementById("defaultOpen").click();
                  <div>
                   <div class="row">
                <div class="col-lg-6 col-md-6 col-sm-12 col-sm-12 ful-testimonial">
-                   <a style="text-decoration: none; margin-top:0;color: #ffffff;" href="#" target="_blank" tabindex="0"> 	<div class="testimonials_img_holder"><img alt="" title="" src="https://www.jim.ac.in/images/testimonial/t-1.jpg"/></div></a>
+                   <a style="text-decoration: none; margin-top:0;color: #ffffff;" href="#" target="_blank" tabindex="0"> 	<div class="testimonials_img_holder"><img alt="" title="" src="uploads/testimonials/testmon-2.jpg" height="350px"/></div></a>
                 </div>
                <div class="col-lg-6 col-md-6 col-sm-12 col-sm-12 ful-testimonial">
                 <div class="testimonials_text_holder">
@@ -1447,10 +1488,21 @@ document.getElementById("defaultOpen").click();
                
                </div>
                
+ 
+               
+              
+  
+               
+
+               
+              
+            
+               
+              
                  <div>
                   <div class="row">
                <div class="col-lg-6 col-md-6 col-sm-12 col-sm-12 ful-testimonial">
-                   <a style="text-decoration: none; margin-top:0;color: #ffffff;" href="#" target="_blank" tabindex="0"> 	<div class="testimonials_img_holder"><img alt="Jacob thomas" title="Jacob thomas" src="https://www.jim.ac.in/images/testimonial/t-2.jpg"/></div></a>
+                   <a style="text-decoration: none; margin-top:0;color: #ffffff;" href="#" target="_blank" tabindex="0"> 	<div class="testimonials_img_holder"><img alt="Jacob thomas" title="Jacob thomas" src="uploads/testimonials/testmon-3.jpg"/></div></a>
                 </div>
                <div class="col-lg-6 col-md-6 col-sm-12 col-sm-12 ful-testimonial">
                 <div class="testimonials_text_holder">
@@ -1472,7 +1524,7 @@ document.getElementById("defaultOpen").click();
                  <div>
                   <div class="row">
                <div class="col-lg-6 col-md-6 col-sm-12 col-sm-12 ful-testimonial">
-                   <a style="text-decoration: none; margin-top:0;color: #ffffff;" href="#" target="_blank" tabindex="0"> 	<div class="testimonials_img_holder"><img alt="Macbook" title="Macbook" src="https://www.jim.ac.in/images/testimonial/t-3.jpg"/></div></a>
+                   <a style="text-decoration: none; margin-top:0;color: #ffffff;" href="#" target="_blank" tabindex="0"> 	<div class="testimonials_img_holder"><img alt="Macbook" title="Macbook" src="uploads/testimonials/testmon-5.jpg"/></div></a>
                 </div>
                <div class="col-lg-6 col-md-6 col-sm-12 col-sm-12 ful-testimonial">
                 <div class="testimonials_text_holder">
@@ -1493,7 +1545,7 @@ document.getElementById("defaultOpen").click();
                  <div>
                   <div class="row">
                <div class="col-lg-6 col-md-6 col-sm-12 col-sm-12 ful-testimonial">
-                   <a style="text-decoration: none; margin-top:0;color: #ffffff;" href="#" target="_blank" tabindex="0"> 	<div class="testimonials_img_holder"><img alt="Sanjna Venugopal" title="Sanjna Venugopal" src="https://www.jim.ac.in/images/testimonial/t-4.jpg"/></div></a>
+                   <a style="text-decoration: none; margin-top:0;color: #ffffff;" href="#" target="_blank" tabindex="0"> 	<div class="testimonials_img_holder"><img alt="Sanjna Venugopal" title="Sanjna Venugopal" src="uploads/testimonials/testmon-9.jpg"/></div></a>
                 </div>
                <div class="col-lg-6 col-md-6 col-sm-12 col-sm-12 ful-testimonial">
                 <div class="testimonials_text_holder">
@@ -1531,16 +1583,13 @@ document.getElementById("defaultOpen").click();
 
      
       
-      <div id="stay-connected-col">
+      <div id="stay-connected-col"style="display:none;">
       <section class="panel social_panel common-padding" data-section-name="social_panel">
         <div class="fast_facts_main">
           <div class="custom-container-inner">
             <div class="main-head-main">Stay connected</div>
             <div class="inner_social_panel">
             
-<!-- Place <div> tag where you want the feed to appear -->
-<!-- <div id="curator-feed"></div> -->
-<!-- The Javascript can be moved to the end of the html page before the </body> tag -->
 
               
             </div>
@@ -1553,18 +1602,17 @@ document.getElementById("defaultOpen").click();
 <section id="panel association common-padding" class="panel association common-padding association-mobile-col" data-section-name="association">
 <div class="custom-container-inner">
 <div class="">
-<h2 class="association-heading">Associations</h2>
+<h2 class="association-heading">Our Recruiters</h2>
+<marquee behavior="scroll" direction="left" scrollamount="10">
+    <img src="https://icubeelectronics.com/wp-content/uploads/2018/06/flipkart-logo-yellow.png" width="120" height="80" alt="Natural" style="margin-left:40px"/>
+    
+    <img src="https://logovtor.com/wp-content/uploads/2020/01/blue-star-limited-logo-vector.png" width="120" height="80" alt="Natural" style="margin-left:40px"/>
+    <img src="https://1000logos.net/wp-content/uploads/2016/10/Bosch-Logo-500x312.png" width="120" height="80" alt="Natural" style="margin-left:40px"/>
+    <img src="https://seeklogo.com/images/S/south-indian-bank-logo-2964C2D704-seeklogo.com.png" width="120" height="80" alt="Natural"style="margin-left:40px" />
+  
+    <img src="https://www.nipponpaint.com/wp-content/uploads/2020/02/unnamed.jpg" width="120" height="80" alt="Natural"style="margin-left:40px" />
+    </marquee>
 <div class="global-icon">
-<ul>
-<!--<li><img src="images/global-icon-1.jpg" /></li>
-<li><img src="images/global-icon-2.jpg" /></li>-->
-<li><img src="https://jim.ac.in/Placement/recruiters/P-1.jpg" alt="IIT Stuart School of Business" title="IIT Stuart School of Business"></li>
-<li><img src="https://jim.ac.in/Placement/recruiters/P-2.jpg" alt="Babson" title="Babson"></li>
-<li><img src="https://jim.ac.in/Placement/recruiters/P-3.jpg" alt="Bauer" title="Bauer"></li>
-<li><img src="https://jim.ac.in/Placement/recruiters/P-4.jpg" alt="Universite De Bordeaux" title="Universite De Bordeaux"></li>
-<li><img src="https://jim.ac.in/Placement/recruiters/P-5.jpg" alt="Hkust" title="Hkust"></li>
-<li><img src="https://jim.ac.in/Placement/recruiters/P-6.jpg" alt="UMKC" title="UMKC"></li>
-</ul>
 
 </div>
 </div>

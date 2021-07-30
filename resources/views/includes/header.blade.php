@@ -1,5 +1,4 @@
- <!-- //sample checkdate -->
- <style>
+<style>
 #small_navs{
     color: beige;
     background-color: yellowgreen;
@@ -18,7 +17,7 @@
   overflow: hidden;
   background-color: #781328;
   z-index: 9999;
-  margin-left: 33%;
+  margin-left: 32%;
   padding-right: 5vw;
 }
 
@@ -28,7 +27,7 @@
   text-align: center;
   /* padding: 14px 16px;
   text-decoration: none; */
-  font-size: 17px;
+  font-size: 14px;
 }
 
 
@@ -39,10 +38,10 @@
 }
 
 a.space {
-    padding-left: 40px;
+    padding-left: 15px;
 }
 a.space1{
-    padding-right: 12px;
+    padding-right: 8px;
 }
 .right{
     float: right;
@@ -61,6 +60,13 @@ a.space1{
             <span class="mlr"></span>
             <a href="index.html" class="space">
               <i class="fa fa-phone"></i> +91 431 422 6481
+            </a>
+			
+            <a href="index.html" class="space">
+              <i class="fa fa-sign-in"></i> Login
+            </a>
+			<a href="index.html" class="space">
+              <i class="fa fa-graduation-cap"></i> Admission
             </a>
             <span class="right">
             <a href="index.html" class="space1"> <i class="fa fa-facebook"></i></a>
@@ -90,110 +96,22 @@ a.space1{
        
 
          <!--about section li start from here-->
-		 <li class="nav-item mega_hover_effect"><a class="nav-link" href="javascript:;" id="hme">Home</a>
-          <li class="nav-item mega_hover_effect"><a class="nav-link" href="javascript:;" id="abt">About</a>
-<div class="on_hover mega-menu-main">
-<div class="container-custom mega-container">
-<div class="left_menu">
-<div class="mega_menu_images_holder"><img alt="Asia’s 1 st LEED Platinum Rated Campus" src="assets/jm/images/about_mega.jpg" title="Asia’s 1 st LEED Platinum Rated Campus" /></div>
+		<!-- Home Menu -->
+		<li class="nav-item mega_hover_effect"><a class="nav-link" href="javascript:;" id="hme">Home</a>
+		<!-- Home  Menu End  -->
 
-<p class="img-text" style=" font-family: montserratextrabold; text-transform: uppercase;">Asia’s 1<sup style="font-size:20px;">st</sup> LEED Platinum Rated Campus</p>
-</div>
+		<!-- Academic  Menu Start  -->
+		<li class="nav-item mega_hover_effect"><a class="nav-link" href="javascript:;" id="prg">Academics </a>
+		<!-- Academic  Menu End  -->
 
-<div class="right_menu">
-<div class="mega_menu_part_inner_holder">
-<div class="row">
-<div class="col-sm-6">
-<h3 class="mega-menu-head2 mega-menu-head-pad"><a href="about-us.html">About Us</a></h3>
-
-<ul class="mega_menu_margin_top10">
-<li><a href="about-us/chairmans-message.html">Chairman's Message</a></li>
-
-<li><a href="about-us/vice-chairman-and-ceo-message.html">Vice Chairman & CEO</a></li>
-
-<li><a href="about-us/message-from-the-dean.html">Dean's Message</a></li>
-<li><a href="about-us/governing-council.html">Governing Council</a></li>
-<li><a href="about-us/business-advisory-council.html">Business Advisory Council</a></li>
-<li><a href="about-us/academic-advisory-council.html">Academic Advisory Council</a></li>
-<li><a href="http://agbinc.in/" target="_blank">Great Lakes Incubator (AGBI) </a></li>
-<li><a href="about-us/work-with-us.html">Work With Us</a></li>
-<li><a href="about-us/mandatory-disclosure.html">Mandatory Disclosure</a></li>
-<li><a href="about-us/anti-ragging-notice.html">Anti-Ragging Notice</a></li>
-</ul>
-
-<h3 class="mega-menu-head2 term-zero-menu"><a href="term-zero.html">TERM ZERO</a></h3>
-
-<div class="clear"> </div>
-
-<h3 class="mega_menu_margin_top30 mega-menu-head-pad"><a href="about-media.html">Media</a></h3>
-
-<ul class="mega_menu_margin_top10">
-<!--<li><a href="https://www.greatlakes.edu.in/chennai/news">News </a></li>-->
-<li><a href="events.html">Events</a></li>
-<li><a href="in-media.html">In Media</a></li>
-<li><a href="about-us/media-kit.html">Media Kit</a></li>
-</ul>
-</div>
-
-<div class="col-sm-6">
-<div class="mega_menu_part_inner_holder border-none  padding-right-mega">
-<h3 class="mega-menu-head2"><a href="rankings.html">Rankings</a></h3>
-
-<div class="clear"> </div>
-
-<h3 class="mega-menu-head2"><a href="accreditations.html">Accreditations</a></h3>
-
-<div class="clear"> </div>
-
-<h3 class="mega-menu-head2"><a href="about-us/nirf.html">NIRF</a></h3>
-
-<div class="clear"> </div>
-
-<h3 class="mega-menu-head2"><a href="about-us/campus.html">Campus</a></h3>
-
-<div class="clear"> </div>
-
-<h3 class="mega-menu-head2"><a target="_blank" href="https://www.greatlakes.edu.in/blog/">Blog</a></h3>
-</div>
-
-<h3 class="mega_menu_margin_top20 mega-menu-head-pad"><a href="about-us/events.html">Annual Events</a></h3>
-
-<ul class="mega_menu_margin_top10">
-<li><a class="active" href="about-us/convocation.html">Convocation</a></li>
-<li><a href="http://www.tedxglimchennai.com/" target="_blank">TEDxGLIMChennai</a></li>
-<li><a href="about-us/lattitude.html">L'Attitude</a></li>
-<li><a href="about-us/digital-symposium.html">Digital Symposium</a></li>
-<li><a href="about-us/sangamitra.html">Sangamitra</a></li>
-<li><a href="about-us/annual-alumni-meet.html">Annual Alumni Meet</a></li>
-<li><a href="about-us/swim.html">SWIM</a></li>
-<li><a href="about-us/iec.html">IEC</a></li>
-
-<li><a href="about-us/human-capital-management.html">Human Capital Management</a></li>
-
-
-
-
-
-</ul>
-</div>
-</div>
-
-<div class="inner_main_mega_menu"> </div>
-</div>
-</div>
-</div>
-</div>
-</li>
-          <!--about li end here-->
-          <li class="nav-item mega_hover_effect"><a class="nav-link" href="javascript:;" id="prg">Academics </a>
-<div class="on_hover mega-menu-main mega-menu-main_new">
+		<!--- <div class="on_hover mega-menu-main mega-menu-main_new">
 <div class="container-custom mega-container">
 <div class="left_menu">
 <div class="mega_menu_images_holder"><img alt="Transform and Lead" src="assets/jm/images/program-bg.jpg" title="Transform and Lead" /></div>
 
 <p class="img-text" style=" font-family: montserratextrabold;    text-transform: uppercase;">Transform and Lead</p>
 <!--<p class="img-text program-text-new" >Admissions Open For:</p>
-<p class="program-text-new2">PGPM 2019-20 | PGDM 2019-21</p>-->
+<p class="program-text-new2">PGPM 2019-20 | PGDM 2019-21</p>
 
 </div>
 
@@ -212,7 +130,7 @@ a.space1{
 <a class="menu-read-more pgpmmegamenulm" href="pgpm.html">Learn More <i class="fa fa-angle-right pgpmmegamenulm" aria-hidden="true"></i></a> 
 <a rel="nofollow" class="menu-read-more2 pgpmmegamenuan" href="https://app.greatlakes.edu.in/" target="_blank">Apply Now <i class="fa fa-angle-right pgpmmegamenuan" aria-hidden="true"></i></a>
 <!--<span class="date-div-col">APP. Deadline: 14<sup>th</sup> April, 2021</span>-->
-<!-- <span class="date-div-col">Admissions Open!</span>-->
+<!-- <span class="date-div-col">Admissions Open!</span>
 
 
 
@@ -224,7 +142,7 @@ a.space1{
 <a class="menu-read-more pgdmmegamenulm" href="pgdm.html">Learn More <i class="fa fa-angle-right pgdmmegamenulm" aria-hidden="true"></i></a>
 <a rel="nofollow" class="menu-read-more2 pgdmmegamenuan" href="https://application.greatlakes.edu.in/" target="_blank">Apply Now <i class="fa fa-angle-right pgdmmegamenuan" aria-hidden="true"></i></a>
 <!--<span class="date-div-col">APP. Deadline: 14<sup>th</sup> April, 2021</span>-->
-<!-- <span class="date-div-col">Admissions Open!</span>-->
+<!-- <span class="date-div-col">Admissions Open!</span>
 
 <div class="clear"> </div> 
 
@@ -270,14 +188,14 @@ a.space1{
 
 <!--<span class="date-div-col">APP. Deadline: 15<sup>th</sup> July, 2019</span>-->
 
-<!--<a class="menu-read-more" href="https://www.greatlakes.edu.in/chennai/mba-in-business-analytics">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>-->
+<!--<a class="menu-read-more" href="https://www.greatlakes.edu.in/chennai/mba-in-business-analytics">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 
 <div class="clear"> </div>
 
 
 <!--<h4 class="mega-menu-head2 mega_menu_margin_top40 mega-menu-head-pad programs-menu-div"><a href="https://www.greatlakes.edu.in/chennai/family-enterprises-management">Family Enterprises Management</a></h4>-->
 
-<!--<a class="menu-read-more" href="https://www.greatlakes.edu.in/chennai/global-pgp-for-family-enterprises-management">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>-->
+<!--<a class="menu-read-more" href="https://www.greatlakes.edu.in/chennai/global-pgp-for-family-enterprises-management">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 
 <div class="clear"> </div>
 
@@ -287,19 +205,122 @@ a.space1{
 </div>
 </div>
 </div>
+</div>---><!-- <div class="on_hover mega-menu-main mega-menu-main_new">
+<div class="container-custom mega-container">
+<div class="left_menu">
+<div class="mega_menu_images_holder"><img alt="Transform and Lead" src="assets/jm/images/program-bg.jpg" title="Transform and Lead" /></div>
+
+<p class="img-text" style=" font-family: montserratextrabold;    text-transform: uppercase;">Transform and Lead</p>
+<p class="img-text program-text-new" >Admissions Open For:</p>
+<p class="program-text-new2">PGPM 2019-20 | PGDM 2019-21</p>
 </div>
+
+<div class="right_menu">
+<div class="row">
+<div class="col-sm-6 mega-menu-part">
+<div class="mega_menu_part_inner_holder">
+<div class="row">
+<div class="col-sm-12">
+<h3 class="mega-menu-head2 mega-menu-head2_new"><a href="full-time-programs.html">Full Time Programs</a></h3>
+
+<div class="mega_menu_margin mega_menu_margin_para mega_menu_margin_top40">
+<h4 class="mega-menu-head2 mega-menu-head-pad"><a href="pgpm.html">PGPM</a></h4>
+
+<p>One Year MBA for professionals with work experience</p>
+<a class="menu-read-more pgpmmegamenulm" href="pgpm.html">Learn More <i class="fa fa-angle-right pgpmmegamenulm" aria-hidden="true"></i></a> 
+<a rel="nofollow" class="menu-read-more2 pgpmmegamenuan" href="https://app.greatlakes.edu.in/" target="_blank">Apply Now <i class="fa fa-angle-right pgpmmegamenuan" aria-hidden="true"></i></a>
+<span class="date-div-col">APP. Deadline: 14<sup>th</sup> April, 2021</span>
+<!-- <span class="date-div-col">Admissions Open!</span>
+
+
+
+<div class="clear"> </div>
+
+<h4 class="mega-menu-head2 mega_menu_margin_top40 mega-menu-head-pad"><a href="pgdm.html">PGDM</a></h4>
+
+<p>Two Year MBA for professionals with 0-2 years of work experience</p>
+<a class="menu-read-more pgdmmegamenulm" href="pgdm.html">Learn More <i class="fa fa-angle-right pgdmmegamenulm" aria-hidden="true"></i></a>
+<a rel="nofollow" class="menu-read-more2 pgdmmegamenuan" href="https://application.greatlakes.edu.in/" target="_blank">Apply Now <i class="fa fa-angle-right pgdmmegamenuan" aria-hidden="true"></i></a>
+<span class="date-div-col">APP. Deadline: 14<sup>th</sup> April, 2021</span>-->
+<!-- <span class="date-div-col">Admissions Open!</span>
+
+<div class="clear"> </div> 
+
+<h4 class="mega-menu-head2 mega_menu_margin_top40 mega-menu-head-pad"><a href="corporate-learning-and-development.html" class="program-menu-col" style="line-height: 32px;">CORPORATE LEARNING AND DEVELOPMENT</a></h4>
+
+<p>Partner with us for customized learning solutions for your organisation</p>
+<a class="menu-read-more" href="corporate-learning-and-development.html">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+
+</div>
+</div>
+</div>
+
+<div class="inner_main_mega_menu"> </div>
+</div>
+</div>
+
+<div class="col-sm-6 mega-menu-part">
+<div class="mega_menu_part_inner_holder padding-right-mega">
+<h3 class="mega-menu-head2 mega-menu-head2_new"><a href="corporate-programs.html">Executive Programs</a></h3>
+
+<div class="mega_menu_margin mega_menu_margin_para mega_menu_margin_top40">
+<h4 class="mega-menu-head2 mega-menu-head-pad"><a href="pgxpm.html">PGXPM</a></h4>
+
+<p>Executive program for Mid & Senior Level working professionals</p>
+<a class="menu-read-more" href="pgxpm.html">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a> 
+<a rel="nofollow" class="menu-read-more2" href="http://tcsion.com/EForms/onlineApplicationAction.do?values=520@@983&amp;subAction=fetchForm">Apply Now <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+<span class="date-div-col">APP. Deadline: 31<sup>st</sup> July, 2021</span>
+
+<div class="clear"> </div>
+
+<h4 class="mega-menu-head2 mega_menu_margin_top40 mega-menu-head-pad"><a href="pgpm-flex.html">PGPM Flex</a></h4>
+
+
+
+<p>Weekend management program for young working professionals</p>
+<a class="menu-read-more" href="pgpm-flex.html">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a> 
+<a rel="nofollow" class="menu-read-more2" href="http://www.digialm.com/EForms/configuredHtml/520/1369/application.html">Apply Now <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+<span class="date-div-col">APP. Deadline: 15<sup>th</sup> August, 2021</span>
+
+<div class="clear"> </div>
+
+<!--<h4 class="mega-menu-head2 mega_menu_margin_top40 mega-menu-head-pad"><a href="https://www.greatlakes.edu.in/chennai/mba-in-business-analytics">MBA in Business Analytics</a></h4>-->
+
+<!--<span class="date-div-col">APP. Deadline: 15<sup>th</sup> July, 2019</span>-->
+
+<!--<a class="menu-read-more" href="https://www.greatlakes.edu.in/chennai/mba-in-business-analytics">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+
+<div class="clear"> </div>
+
+
+<h4 class="mega-menu-head2 mega_menu_margin_top40 mega-menu-head-pad programs-menu-div"><a href="https://www.greatlakes.edu.in/chennai/family-enterprises-management">Family Enterprises Management</a></h4>-->
+
+<!--<a class="menu-read-more" href="https://www.greatlakes.edu.in/chennai/global-pgp-for-family-enterprises-management">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+
+<div class="clear"> </div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> -->
 </li>
 
-          	<li class="nav-item mega_hover_effect"><a class="nav-link" href="javascript:;" id="fac">Facilities</a>
-	<div class="on_hover mega-menu-main mega-menu-main-1">
+
+        
+          <!--about li end here-->
+<li class="nav-item mega_hover_effect"><a class="nav-link" href="javascript:;" id="fac">Faculities</a>
+<div class="on_hover mega-menu-main mega-menu-main-1">
 	<div class="container-custom mega-container">
 	<div class="left_menu">
-	<div class="mega_menu_images_holder"><img alt="Ranked 6th" src="assets/jm/images/research-bg.jpg" title="Ranked 6th" /></div>
+	<div class="mega_menu_images_holder"><img alt="Ranked 6th" src="https://jim.ac.in/images/Gallery/Infrastructure/2021/5-1626518496.jpg" title="Ranked 6th" /></div>
 
 	<div class="mega_holder_content_container">
-	<h3 class="program_para_num"><span>Ranked 6 <sup>th</sup> </span></h3>
+	<h3 class="program_para_num" style=""><span>Our Faculty  </span></h3>
 
-	<p class="program_para">by NIRF ranking in teaching and learning among all B-Schools in the country</p>
+	<p class="program_para" style="display:none">by NIRF ranking in teaching and learning among all B-Schools in the country</p>
 	</div>
 	</div>
 
@@ -315,6 +336,73 @@ a.space1{
 		<li><a href="faculty-category/adjunct-faculty.html">Adjunct Faculty</a></li>
 	</ul>
 
+	<h3 style="display:none" class="mega-menu-head2 mega-menu-head2-new mega_menu_margin_top40 mega-menu-head-pad"><a href="faculty/research.html">Research</a></h3>
+
+
+<ul class="mega_menu_margin_top10" style="display:none">
+<li><a href="faculty/faculty-editors.html">Faculty Editors</a></li>
+<li><a href="faculty-research/papers-and-journal-publications.html">Papers & Journal Publications</a></li>
+<li><a href="faculty-research/case-studies-and-books.html">Case Studies & Books</a></li>
+<li><a href="faculty-research/conference-proceedings.html">Conference Proceedings</a></li>
+</ul>
+	</div>
+	</div>
+
+	<div class="col-sm-6 mega-menu-part" style="display:none">
+	<div class="mega_menu_part_inner_holder new custom-menu  padding-right-mega mega-margin-bottom">
+	<h3 class="mega-menu-head2 mega-menu-head-pad"><a href="coe.html">Centers of Excellence</a></h3>
+
+	<ul class="mega_menu_margin_top10 new-mega">
+		<li><a href="coe/centre-for-excellence-in-retail-management.html">Centre For Excellence in Retail Management</a></li>
+		<li><a href="coe/great-lakes-center-for-management-research.html">Great Lakes Centre For Management Research</a></li>
+		<li><a href="coe/kotler-srinivasan-centre-for-research-in-marketing.html">Kotler - Srinivasan Centre for Research in Marketing</a></li>
+		
+        <li><a href="coe/centre-for-excellence-in-business-analytics-and-business-intelligence.html">Centre for Excellence in Business Analytics and Business Intelligence</a></li>
+        
+        <li><a href="coe/cet.html">CET</a></li>
+        
+        <li><a href="coe/union-bank-center-for-banking-excellence.html">Union Bank Centre for Banking Excellence</a></li>
+        
+        <li><a href="coe/centre-for-sports-management-analytics.html">Centre for Sports Management & Analytics</a></li>
+		
+	</ul>
+
+	<h3 class="mega-menu-head2 mega_menu_margin_top40 mega-menu-head-pad"><a href="conferences.html">Conferences</a></h3>
+
+	<ul class="mega_menu_margin_top10">
+		<li><a href="conferences/nasmei.html">NASMEI</a></li>
+		<li><a href="conferences/financial-conference.html">Financial Conference</a></li>
+	</ul>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<!-- <div class="on_hover mega-menu-main mega-menu-main-1">
+	<div class="container-custom mega-container">
+	<div class="left_menu">
+	<div class="mega_menu_images_holder"><img alt="Ranked 6th" src="assets/jm/images/research-bg.jpg" title="Ranked 6th" /></div>
+
+	<div class="mega_holder_content_container">
+	<h3 class="program_para_num"><span>Ranked 6 <sup>th</sup> </span></h3>
+
+	<p class="program_para">by NIRF ranking in teaching and learning among all B-Schools in the country</p>
+	</div>
+	</div>
+
+	<div class="right_menu">
+	<div class="row">
+	<div class="col-sm-6 mega-menu-part">
+	<div class="mega_menu_part_inner_holder "><!--<p>Ranked 6th in NIRF ranking in teaching and learning</p>
+	<h3 class="mega-menu-head2 mega-menu-head-pad"><a href="faculty.html">Faculty</a></h3>
+
+	<ul class="mega_menu_margin_top10">
+		<li><a href="faculty-category/full-time-faculty.html">Full Time Faculty</a></li>
+		<li><a href="faculty-category/visiting-faculty.html">Visiting Faculty</a></li>
+		<li><a href="faculty-category/adjunct-faculty.html">Adjunct Faculty</a></li>
+	</ul>
+
 	<h3 class="mega-menu-head2 mega-menu-head2-new mega_menu_margin_top40 mega-menu-head-pad"><a href="faculty/research.html">Research</a></h3>
 
 <!--<ul class="mega_menu_margin_top10">
@@ -322,7 +410,7 @@ a.space1{
 <li><a href="https://www.greatlakes.edu.in/chennai/assets/jm/pdf/Journals.pdf" target="_blank">Papers & Journal Publications</a></li>
 <li><a href="https://www.greatlakes.edu.in/chennai/assets/jm/pdf/Books.pdf" target="_blank">Case Studies & Books</a></li>
 <li><a href="https://www.greatlakes.edu.in/chennai/assets/jm/pdf/Conference.pdf" target="_blank">Conference Proceedings</a></li>
-</ul>-->
+</ul>
 
 <ul class="mega_menu_margin_top10">
 <li><a href="faculty/faculty-editors.html">Faculty Editors</a></li>
@@ -363,10 +451,10 @@ a.space1{
 	</div>
 	</div>
 	</div>
-	</div>
+	</div> -->
 	</li>
 
-          	<li class="nav-item mega_hover_effect"><a class="nav-link" href="javascript:;" id="rec">Students</a>
+          	<!-- <li class="nav-item mega_hover_effect"><a class="nav-link" href="javascript:;" id="rec">Students</a>
 	<div class="on_hover mega-menu-main mega-menu-main_new2">
 	<div class="container-custom mega-container">
 	<div class="left_menu">
@@ -436,10 +524,106 @@ a.space1{
 	</div>
 	</div>
 	</div>
-	</li>
+	</li> -->
 
-          <li class="nav-item mega_hover_effect"> <a rel="nofollow" class="nav-link disabled" href="alumni/index.html"  target="_blank">Placements</a></li>   
-		  <li class="nav-item mega_hover_effect"> <a rel="nofollow" class="nav-link disabled" href="alumni/index.html"  target="_blank">Life@JIM</a></li> 
+          <li class="nav-item mega_hover_effect"> <a rel="nofollow" class="nav-link disabled" href="#"  target="">Training & Placements</a></li>   
+		  <li class="nav-item mega_hover_effect"> <a rel="nofollow" class="nav-link disabled" href="#"  target="">Life@JIM</a></li>
+		  
+		  <li class="nav-item mega_hover_effect"> <a rel="nofollow" class="nav-link disabled" href="#"  target="">About</a></li>
+		   <!-- <li class="nav-item mega_hover_effect"><a class="nav-link" href="javascript:;" id="abt">About</a>
+
+		  <div class="on_hover mega-menu-main">
+<div class="container-custom mega-container">
+<div class="left_menu">
+<div class="mega_menu_images_holder"><img alt="Asia’s 1 st LEED Platinum Rated Campus" src="assets/jm/images/about_mega.jpg" title="Asia’s 1 st LEED Platinum Rated Campus" /></div>
+
+<p class="img-text" style=" font-family: montserratextrabold; text-transform: uppercase;">Asia’s 1<sup style="font-size:20px;">st</sup> LEED Platinum Rated Campus</p>
+</div> -->
+
+<!-- <div class="right_menu">
+<div class="mega_menu_part_inner_holder">
+<div class="row">
+<div class="col-sm-6">
+<h3 class="mega-menu-head2 mega-menu-head-pad"><a href="about-us.html">About Us</a></h3> -->
+
+<!-- <ul class="mega_menu_margin_top10">
+<li><a href="about-us/chairmans-message.html">Chairman's Message</a></li>
+
+<li><a href="about-us/vice-chairman-and-ceo-message.html">Vice Chairman & CEO</a></li> -->
+
+<!-- <li><a href="about-us/message-from-the-dean.html">Dean's Message</a></li>
+<li><a href="about-us/governing-council.html">Governing Council</a></li>
+<li><a href="about-us/business-advisory-council.html">Business Advisory Council</a></li>
+<li><a href="about-us/academic-advisory-council.html">Academic Advisory Council</a></li>
+<li><a href="http://agbinc.in/" target="_blank">Great Lakes Incubator (AGBI) </a></li>
+<li><a href="about-us/work-with-us.html">Work With Us</a></li>
+<li><a href="about-us/mandatory-disclosure.html">Mandatory Disclosure</a></li>
+<li><a href="about-us/anti-ragging-notice.html">Anti-Ragging Notice</a></li>
+</ul> -->
+
+<!-- <h3 class="mega-menu-head2 term-zero-menu"><a href="term-zero.html">TERM ZERO</a></h3>
+
+<div class="clear"> </div>
+
+<h3 class="mega_menu_margin_top30 mega-menu-head-pad"><a href="about-media.html">Media</a></h3>
+
+<ul class="mega_menu_margin_top10">
+<li><a href="https://www.greatlakes.edu.in/chennai/news">News </a></li>
+<li><a href="events.html">Events</a></li>
+<li><a href="in-media.html">In Media</a></li>
+<li><a href="about-us/media-kit.html">Media Kit</a></li>
+</ul> 
+</div>
+
+<div class="col-sm-6">
+<div class="mega_menu_part_inner_holder border-none  padding-right-mega">
+<h3 class="mega-menu-head2"><a href="rankings.html">Rankings</a></h3>
+
+<div class="clear"> </div>
+
+<h3 class="mega-menu-head2"><a href="accreditations.html">Accreditations</a></h3>
+
+<div class="clear"> </div>
+
+<h3 class="mega-menu-head2"><a href="about-us/nirf.html">NIRF</a></h3>
+
+<div class="clear"> </div>
+
+<h3 class="mega-menu-head2"><a href="about-us/campus.html">Campus</a></h3>
+
+<div class="clear"> </div>
+
+<h3 class="mega-menu-head2"><a target="_blank" href="https://www.greatlakes.edu.in/blog/">Blog</a></h3>
+</div>
+
+<h3 class="mega_menu_margin_top20 mega-menu-head-pad"><a href="about-us/events.html">Annual Events</a></h3>
+
+<ul class="mega_menu_margin_top10">
+<li><a class="active" href="about-us/convocation.html">Convocation</a></li>
+<li><a href="http://www.tedxglimchennai.com/" target="_blank">TEDxGLIMChennai</a></li>
+<li><a href="about-us/lattitude.html">L'Attitude</a></li>
+<li><a href="about-us/digital-symposium.html">Digital Symposium</a></li>
+<li><a href="about-us/sangamitra.html">Sangamitra</a></li>
+<li><a href="about-us/annual-alumni-meet.html">Annual Alumni Meet</a></li>
+<li><a href="about-us/swim.html">SWIM</a></li>
+<li><a href="about-us/iec.html">IEC</a></li>
+
+<li><a href="about-us/human-capital-management.html">Human Capital Management</a></li>
+
+
+
+
+
+</ul>
+</div>
+</div>
+
+<div class="inner_main_mega_menu"> </div>
+</div>
+</div>
+</div>
+</div>
+</li>-->
 		  <li class="nav-item mega_hover_effect"> <a rel="nofollow" class="nav-link disabled" href="alumni/index.html"  target="_blank">Contact</a></li>
 		</ul>
         <div class="column">
