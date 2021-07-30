@@ -1,0 +1,548 @@
+@charset "utf-8";
+.container-custom {
+	width: 100%;
+	max-width: 85%
+}
+.option2 .transform_content {
+	left: 0;
+	-webkit-clip-path: polygon(0 0, 100% 0, 84% 100%, 0 100%);
+	clip-path: polygon(0 0, 100% 0, 84% 100%, 0 100%);
+	width: 42%;
+	padding: 3.2% 6% 3% 98px!important;
+	height: 69%;
+	margin: 4.5% 0
+}
+.option2 .header .navbar-top li:first-child .nav-link {
+	color: #0d99de!important;
+	font-size: 16px!important;
+	position: relative;
+	top: 0;
+	font-family: inherit!important;
+	padding: inherit!important;
+	font-weight: 700
+}
+.news-blog .header .navbar-top li:first-child .nav-link {
+	position: static;
+padding:.5rem 0!important;
+	color: #636262!important;
+	font-weight: 700;
+	font-family: montserratmedium!important
+}
+.news-blog .header .navbar-top li:first-child .nav-link::after {
+	bottom: -9px
+}
+.fixed .navbar-top li:first-child .nav-link::after {
+	bottom: -2px!important
+}
+.main-head-main {
+	font-size: 69px
+}
+.option2 .main-head-main span {
+	display: inline
+}
+.main-head-main.top_head {
+	font-size: 43px;
+	line-height: 47px;
+	font-family: Montserrat, sans-serif;
+	font-weight: 700
+}
+.common_sticky p {
+	font-size: 11px;
+	line-height: 14px;
+	padding: 0 7px;
+	bottom: -10px;
+	z-index: 1;
+	text-align: center;
+	font-family: montserratmedium
+}
+.common_sticky3 .icons_sticky {
+	width: 90px;
+	-moz-transition: all linear .4s;
+	-o-transition: all linear .4s;
+	-webkit-transition: all linear .4s;
+	transition: all linear .4s
+}
+.icons_sticky {
+	background-color: #58a72c
+}
+.common_sticky3 .common_sticky {
+	height: 86px;
+	margin-bottom: 1px
+}
+.icons_sticky img {
+	padding: 15px 0;
+	max-width: 42%!important;
+	display: block;
+	margin: -4px auto 0
+}
+.admissions-volume3 .transform_content {
+	-webkit-clip-path: polygon(0 0, 94% 0, 100% 100%, 0 100%);
+	clip-path: polygon(0 0, 94% 0, 100% 100%, 0 100%);
+	background-image: -webkit-linear-gradient(120deg, rgba(69, 177, 16, 9) -90%, rgba(0, 90, 152, 9) 100%);
+	width: 50%;
+	padding: 0 1% 0 4%;
+}
+.transform_lead ul {
+	padding: 0;
+	line-height: normal;
+	margin-bottom: 0;
+	margin-top: 20px !important;
+}
+.transform_lead ul li {
+	display: inline-block;
+	line-height: 26px
+}
+.transform_lead ul li a {
+	font-size: 14px;
+	color: #fff;
+	text-decoration: none;
+	position: relative;
+	padding-right: 14px;
+}
+.transform_lead ul li a::after {
+	content: "\f105";
+	font-family: FontAwesome;
+	font-size: 20px;
+	top: 3px;
+	position: relative;
+	left: 10px
+}
+.transform_lead ul li:last-child a::after {
+	display: none
+}
+.admissions-volume3 .main-head-two {
+	margin-bottom: 10px
+}
+.admissions-volume3 .transform_lead {
+	height: inherit !important;
+}
+.admissions-volume3.admissions-volume4 .transform_content {
+	width: 45%!important;
+	padding: 0 6% 0 98px!important;
+	height: 100%!important;
+	margin: 0!important;
+}
+.news-page-holder .transform_content.transform_content_news_detail {
+	width: 100%!important
+}
+.common_sticky.border-radius-left-top {
+	border-top-left-radius: 7px
+}
+.social-sticky {
+	position: absolute;
+	right: 0;
+	top: 60px
+}
+.sticky {
+	top: 50%
+}
+.option2 .transform_content p {
+	font-size: 17px;
+	line-height: 30px;
+	font-family: Montserrat, sans-serif;
+	font-weight: 500;
+	margin-top: 5px
+}
+.transform.admissions-volume3 .transform_lead img {
+	width: 60%;
+	float: right;
+	object-position: 0px !important;
+	height: 334px;
+	object-fit: cover;
+}
+.news-page-holder.admissions-volume3 .transform_lead {
+    height: 260px !important;
+}
+@media only screen and (max-width:1440px) and (min-width:1367px) {
+.option2 .tranform_table_cell {
+	padding-top: 0
+}
+.option2 .management .common-para, .option2 .management .container-custom {
+	padding-right: 0
+}
+.padding-right50 h2 {
+	line-height: 40px!important
+}
+.main-head-main.top_head {
+	font-size: 43px;
+	line-height: 47px
+}
+.admissions-volume3 .transform_lead img {
+	margin-top: 0;
+	object-position: -351px -105px;
+	object-fit: cover
+}
+.admissions-volume3 .main-head-two {
+	font-size: 77px;
+	line-height: 80px
+}
+.news-page-holder .main-head-two {
+	font-size: 44px;
+	line-height: 60px
+}
+.multiple-items {
+	width: 97.5%;
+	max-width: 97.5%
+}
+.option2 .tab_panel .inner-pgpm-pgdm .main-head-main span {
+	font-size: 50px;
+	line-height: 55px
+}
+}
+@media only screen and (max-width:1366px) and (min-width:1281px) {
+.option2 .transform_content {
+	width: 51%;
+	height: 69%;
+	margin: 5.5% 0 4.5%
+}
+.option2 .main-head-two {
+	text-shadow: 2px 3px 6px rgba(0,0,0,.3)
+}
+.option2 .tranform_table_cell {
+	padding-top: 0;
+	vertical-align: middle
+}
+.main-head-main.top_head {
+	font-size: 43px;
+	line-height: 47px;
+	text-transform: capitalize
+}
+.option2 .management .container-custom {
+	padding-right: 0
+}
+.multiple-items {
+	width: 100%;
+	max-width: 100%
+}
+.option2 .tab_panel .inner-pgpm-pgdm .main-head-main span {
+	font-size: 50px;
+	line-height: 55px
+}
+.news-page-holder .main-head-two {
+	font-size: 44px!important;
+	line-height: 60px!important
+}
+.news-page-holder .tranform_table_cell {
+	vertical-align: bottom
+}
+}
+@media only screen and (max-width:1280px) and (min-width:1171px) {
+.option2 .transform_content {
+	width: 51%;
+	height: 69%;
+	margin: 5.5% 0 4.5%
+}
+.option2 .banner-heading-main h1, .option2 .main-head-two {
+	text-shadow: 2px 3px 6px rgba(0,0,0,.3)
+}
+.main-head-main.top_head {
+	font-size: 43px;
+	line-height: 47px;
+	text-transform: capitalize
+}
+.option2 .management .container-custom {
+	padding-right: 1.5%
+}
+.multiple-items {
+	width: 95%;
+	max-width: 95%
+}
+.option2 .tab_panel .inner-pgpm-pgdm .main-head-main span {
+	font-size: 50px;
+	line-height: 55px
+}
+.news-page-holder .main-head-two {
+	font-size: 44px!important;
+	line-height: 60px!important
+}
+.news-page-holder .tranform_table_cell {
+	vertical-align: bottom
+}
+}
+@media only screen and (max-width:1650px) {
+.admissions-volume3 .main-head-two {
+	font-size: 55px;
+	line-height: 60px
+}
+}
+@media only screen and (max-width:1440px) {
+.transform.admissions-volume3 .transform_lead img {
+    height: 313px;
+}
+}
+@media only screen and (max-width:1366px) {
+.transform.admissions-volume3 .transform_lead img {
+    height: 297px;
+}
+}
+@media only screen and (max-width:1280px) {
+.transform.admissions-volume3 .transform_lead img {
+    height: 280px;
+}
+}
+@media (max-width:1199px) {
+.admissions-volume3 .main-head-two {
+	font-size: 35px
+}
+}
+@media (max-width:1170px) {
+.option2 .header .navbar-top li:first-child .nav-link {
+	line-height: 19px!important;
+}
+.news-page-holder .transform_content.transform_content_news_detail {
+    height: 73% !important;
+}
+}
+@media (max-width:950px) {
+.transform.admissions-volume3 .transform_lead img {
+    height: 230px;
+}
+}
+@media (max-width:870px) {
+.admissions-volume3 .main-head-two {
+	font-size: 25px;
+	line-height: 40px
+}
+}
+@media (max-width:833px) {
+.icons_sticky img {
+    max-width: 25px !important;
+	padding: 13px 0px;
+}
+}
+@media (max-width:800px) {
+.admissions-volume3.admissions-volume4 .transform_content {
+    width: 100% !important;
+	padding: 10px 6% 10px 98px !important;
+}
+.transform.admissions-volume3 .transform_lead img {
+    width: 100%;
+    float: none;
+}
+.transform_lead ul {
+    margin-top: 0px !important;
+}
+.transform.admissions-volume3 .transform_lead img {
+    height: inherit;
+}
+}
+@media only screen and (max-width:768px) {
+.admissions-volume3 .transform_lead {
+	height: auto!important
+}
+.transform.admissions-volume3 .transform_lead img {
+	object-position: 0 0!important
+}
+.admissions-volume3.admissions-volume4 .transform_content {
+	width: 100%!important;
+	padding: 1.5% 6% 2.1% 98px!important;
+	height: 100%!important;
+	margin: 0!important;
+	position: static;
+	clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%)
+}
+.admissions-volume3 .main-head-two {
+	margin-bottom: 0;
+}
+.transform_lead ul {
+    margin-top: 0px !important;
+}
+}
+@media only screen and (max-width:767px) {
+.option2 .transform_content {
+	padding: 3.2% 13% 2% 96px!important
+}
+.admissions-volume3 .transform_lead {
+	height: auto!important
+}
+.admissions-volume3 .main-head-two {
+	margin-bottom: 0
+}
+.transform.admissions-volume3 .transform_lead img {
+	object-position: 0 0!important;
+	object-fit: cover!important;
+	max-width: 100%!important
+}
+.transform_lead .regular .slick-slide img {
+	height: 226px!important
+}
+.admissions-volume3.admissions-volume4 .transform_content {
+	width: 100%!important;
+	padding: 2.5% 13% 2.3% 96px !important;
+}
+.admission_holder .management .common-para {
+	padding-right: 0!important;
+}
+.news-page-holder.admissions-volume3 .transform_lead {
+    height: auto !important;
+}
+}
+@media (max-width:667px) {
+.admissions.desltop_for {
+	display: none
+}
+.admissions.mobile_for {
+	display: block
+}
+.admissions .social_sticky {
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+	bottom: -1px;
+	left: 0
+}
+.common_sticky3 .common_sticky {
+	margin: 0;
+	float: left;
+	width: 25%;
+	padding: 00;
+	border-right: 1px solid #fff
+}
+.common_sticky3 .icons_sticky {
+	width: 100%
+}
+.common_sticky p {
+	bottom: 6px;
+	margin-bottom: 0
+}
+.common_sticky3 .common_sticky {
+	height: 61px;
+	margin-bottom: 1px
+}
+}
+@media (max-width:640px) {
+.admissions-volume3.admissions-volume4 .transform_content, .option2 .transform_content {
+	padding: 3.2% 13% 3% 59px!important
+}
+.transform_lead ul li a {
+	font-size: 11px;
+	line-height: 11px
+}
+}
+@media only screen and (max-width:472px) {
+.common_sticky3 .common_sticky {
+	margin: 0;
+	float: left;
+	width: 25%;
+	padding: 00;
+	border-right: 1px solid #fff
+}
+.option2 .management .common-para {
+	padding-right: 0!important;
+	float: left;
+	width: 100%
+}
+.common_sticky p {
+	font-size: 11px;
+	line-height: 14px;
+	bottom: 7px
+}
+.option2 .transform_content p {
+	text-align: left!important;
+	padding: 0;
+	margin: 15px 0 0;
+	font-size: 14px;
+	line-height: 19px
+}
+.option2 .banner-heading-main h1, .option2 .main-head-two span {
+	text-align: left!important
+}
+.container-custom {
+	width: 100%;
+	max-width: 100%
+}
+.apl {
+	bottom: 7px!important
+}
+.common_sticky3 .icons_sticky {
+	width: 119px
+}
+.offCanvas_trigger_item {
+	width: 32px;
+	height: 4px
+}
+a.pgpm-menu.offCanvas_trigger::after {
+	top: -10px;
+	font-size: 11px;
+	right: 1px
+}
+.offCanvas_trigger.pgpm-menu.offCanvas_trigger_open .offCanvas_trigger_item:first-child {
+	transform-origin: 1px 50%
+}
+}
+@media only screen and (max-width:550px) {
+.common_sticky3 .common_sticky {
+	height: 77px;
+	margin-bottom: 1px
+}
+.common_sticky p {
+	padding: 0 26px
+}
+}
+@media only screen and (max-width:414px) {
+.option2 .transform_content p {
+	text-align: left;
+	padding: 0;
+	margin: 12px 0 0;
+	font-size: 14px;
+	line-height: 19px
+}
+.container-custom {
+	width: 100%;
+	max-width: 100%
+}
+.common_sticky3 .icons_sticky {
+	width: 103px
+}
+.common_sticky p {
+	font-size: 10px;
+	line-height: 12px;
+	bottom: 9px;
+	padding: 0 14px
+}
+.common_sticky3 .common_sticky {
+	height: 70px
+}
+.apl {
+	bottom: 18px!important
+}
+}
+@media only screen and (max-width:375px) {
+.option2 .transform_content p {
+	text-align: left;
+	padding: 0;
+	margin: 12px 0 0;
+	font-size: 14px;
+	line-height: 19px
+}
+.container-custom {
+	width: 100%;
+	max-width: 100%
+}
+.common_sticky3 .icons_sticky {
+	width: 93px
+}
+}
+@media only screen and (max-width:360px) {
+.common_sticky {
+	height: 30px;
+	margin: 0;
+	float: left;
+	width: 25%;
+	padding: 00;
+	border-right: 1px solid #fff
+}
+.common_sticky p {
+	padding: 0 5px
+}
+}
+@media only screen and (max-width:340px) {
+.common_sticky3 .icons_sticky {
+	width: 86px
+}
+.apl {
+	bottom: 16px!important
+}
+.common_sticky3 .common_sticky {
+	height: 60px
+}
+}
