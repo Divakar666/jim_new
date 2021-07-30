@@ -1,3 +1,4 @@
+ <!-- //sample checkdate -->
  <style>
 #small_navs{
     color: beige;
