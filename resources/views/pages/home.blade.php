@@ -1420,10 +1420,7 @@ document.getElementById("defaultOpen").click();
 <p class="vission-bottom">"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt"</p>
 </div>
 </section>     
-      
-       
-      
-      
+
       <section class="common-padding testimonial_New testimonial-main" id="gls">
         <div class="container-custom">
         <div class="main-head-main slider-heading">Testimonials</div>
@@ -1450,17 +1447,6 @@ document.getElementById("defaultOpen").click();
                
                </div>
                
- 
-               
-              
-  
-               
-
-               
-              
-            
-               
-              
                  <div>
                   <div class="row">
                <div class="col-lg-6 col-md-6 col-sm-12 col-sm-12 ful-testimonial">
