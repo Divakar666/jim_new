@@ -1,110 +1,106 @@
 <style>
-#small_navs{
-    color: beige;
-    background-color: yellowgreen;
-}
-.mlr{
-    margin-right: 267px;
-}
-.top-bar{
-    position: absolute;
-    left: 350px;
-    width: calc(100% - 100px);
-}
+	#small_navs {
+		color: beige;
+		background-color: yellowgreen;
+	}
+
+	.mlr {
+		margin-right: 267px;
+	}
+
+	.top-bar {
+		position: absolute;
+		left: 350px;
+		width: calc(100% - 100px);
+	}
 
 
-.topnav {
-  overflow: hidden;
-  background-color: #781328;
-  z-index: 9999;
-  margin-left: 32%;
-  padding-right: 5vw;
-}
+	.topnav {
+		overflow: hidden;
+		background-color: #781328;
+		z-index: 9999;
+		margin-left: 32%;
+		padding-right: 5vw;
+	}
 
-.topnav a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  /* padding: 14px 16px;
+	.topnav a {
+		float: left;
+		color: #f2f2f2;
+		text-align: center;
+		/* padding: 14px 16px;
   text-decoration: none; */
-  font-size: 14px;
-}
+		font-size: 14px;
+	}
 
 
 
-.topnav a.active {
-  background-color: #04AA6D;
-  color: white;
-}
+	.topnav a.active {
+		background-color: #04AA6D;
+		color: white;
+	}
 
-a.space {
-    padding-left: 15px;
-}
-a.space1{
-    padding-right: 8px;
-}
-.right{
-    float: right;
-}
+	a.space {
+		padding-left: 15px;
+	}
 
- </style>
- <!--Header-->
-  <!--SMALL NAVS-->
+	a.space1 {
+		padding-right: 8px;
+	}
 
-  <div class="topnav">
-        <div class="container">
-          <div class="social-1">
-            <a href="index.html" class="space">
-              <i class="fa fa-envelope-open "></i> info@jim.ac.in
-            </a>
-            <span class="mlr"></span>
-            <a href="index.html" class="space">
-              <i class="fa fa-phone"></i> +91 431 422 6481
-            </a>
-			
-            <a href="index.html" class="space">
-              <i class="fa fa-sign-in"></i> Login
-            </a>
+	.right {
+		float: right;
+	}
+</style>
+<!--Header-->
+<!--SMALL NAVS-->
+
+<div class="topnav">
+	<div class="container">
+		<div class="social-1">
 			<a href="index.html" class="space">
-              <i class="fa fa-graduation-cap"></i> Admission
-            </a>
-            <span class="right">
-            <a href="index.html" class="space1"> <i class="fa fa-facebook"></i></a>
-            
-            <a href="index.html" class="space1"> <i class="fa fa-youtube"></i></a>
-            <a href="index.html" class="space1"> <i class="fa fa-twitter"></i></a>
-            <a href="index.html" class="space1"> <i class="fa fa-linkedin"></i></a>
-            <a href="index.html" class="space1"> <i class="fa fa-instagram"></i></a>
-            </span>
-          </div>
-       
-        </div>
-      </div>
-                    
-      <!--SMALL NAVS-->
- <div class="transform">
-  <div id="header-sroll">
-  <nav class="navbar navbar-expand-md header navbar-offcanvas mega-menu only_for_home">
-    
-      <div class="container-fluid container-custom"> <a id="0000" style="display:none;" class="navbar-brand" href="index.html">
-<img src="assets/jm/images/JM_logo.png" alt="JM logo" title="JM logo">
-  
-      </a>
-      
+				<i class="fa fa-envelope-open "></i> info@jim.ac.in
+			</a>
+			<span class="mlr"></span>
+			<a href="index.html" class="space">
+				<i class="fa fa-phone"></i> +91 431 422 6481
+			</a>
 
-        <ul class="navbar-nav navbar-top" id="dfd" style="display:none;">
-       
+			<a href="index.html" class="space">
+				<i class="fa fa-sign-in"></i> Login
+			</a>
+			<a href="index.html" class="space">
+				<i class="fa fa-graduation-cap"></i> Admission
+			</a>
 
-         <!--about section li start from here-->
-		<!-- Home Menu -->
-		<li class="nav-item mega_hover_effect"><a class="nav-link" href="javascript:;" id="hme">Home</a>
-		<!-- Home  Menu End  -->
+		</div>
 
-		<!-- Academic  Menu Start  -->
-		<li class="nav-item mega_hover_effect"><a class="nav-link" href="javascript:;" id="prg">Academics </a>
-		<!-- Academic  Menu End  -->
+	</div>
+</div>
 
-		<!--- <div class="on_hover mega-menu-main mega-menu-main_new">
+<!--SMALL NAVS-->
+<div class="transform">
+	<div id="header-sroll">
+		<nav class="navbar navbar-expand-md header navbar-offcanvas mega-menu only_for_home">
+
+			<div class="container-fluid container-custom"> <a id="0000" style="display:none;" class="navbar-brand" href="index.html">
+					<img src="assets/jm/images/JM_logo.png" alt="JM logo" title="JM logo">
+
+				</a>
+
+
+				<ul class="navbar-nav navbar-top" id="dfd" style="display:none;">
+
+
+					<!--about section li start from here-->
+					<!-- Home Menu -->
+					<li class="nav-item mega_hover_effect"><a class="nav-link" href="javascript:;" id="hme">Home</a>
+						<!-- Home  Menu End  -->
+
+						<!-- Academic  Menu Start  -->
+					<li class="nav-item mega_hover_effect"><a class="nav-link" href="javascript:;" id="prg">Academics </a>
+						<!-- Academic  Menu End  -->
+
+						<!--- <div class="on_hover mega-menu-main mega-menu-main_new">
 <div class="container-custom mega-container">
 <div class="left_menu">
 <div class="mega_menu_images_holder"><img alt="Transform and Lead" src="assets/jm/images/program-bg.jpg" title="Transform and Lead" /></div>
@@ -130,7 +126,7 @@ a.space1{
 <a class="menu-read-more pgpmmegamenulm" href="pgpm.html">Learn More <i class="fa fa-angle-right pgpmmegamenulm" aria-hidden="true"></i></a> 
 <a rel="nofollow" class="menu-read-more2 pgpmmegamenuan" href="https://app.greatlakes.edu.in/" target="_blank">Apply Now <i class="fa fa-angle-right pgpmmegamenuan" aria-hidden="true"></i></a>
 <!--<span class="date-div-col">APP. Deadline: 14<sup>th</sup> April, 2021</span>-->
-<!-- <span class="date-div-col">Admissions Open!</span>
+						<!-- <span class="date-div-col">Admissions Open!</span>
 
 
 
@@ -142,7 +138,7 @@ a.space1{
 <a class="menu-read-more pgdmmegamenulm" href="pgdm.html">Learn More <i class="fa fa-angle-right pgdmmegamenulm" aria-hidden="true"></i></a>
 <a rel="nofollow" class="menu-read-more2 pgdmmegamenuan" href="https://application.greatlakes.edu.in/" target="_blank">Apply Now <i class="fa fa-angle-right pgdmmegamenuan" aria-hidden="true"></i></a>
 <!--<span class="date-div-col">APP. Deadline: 14<sup>th</sup> April, 2021</span>-->
-<!-- <span class="date-div-col">Admissions Open!</span>
+						<!-- <span class="date-div-col">Admissions Open!</span>
 
 <div class="clear"> </div> 
 
@@ -186,16 +182,16 @@ a.space1{
 
 <!--<h4 class="mega-menu-head2 mega_menu_margin_top40 mega-menu-head-pad"><a href="https://www.greatlakes.edu.in/chennai/mba-in-business-analytics">MBA in Business Analytics</a></h4>-->
 
-<!--<span class="date-div-col">APP. Deadline: 15<sup>th</sup> July, 2019</span>-->
+						<!--<span class="date-div-col">APP. Deadline: 15<sup>th</sup> July, 2019</span>-->
 
-<!--<a class="menu-read-more" href="https://www.greatlakes.edu.in/chennai/mba-in-business-analytics">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+						<!--<a class="menu-read-more" href="https://www.greatlakes.edu.in/chennai/mba-in-business-analytics">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 
 <div class="clear"> </div>
 
 
 <!--<h4 class="mega-menu-head2 mega_menu_margin_top40 mega-menu-head-pad programs-menu-div"><a href="https://www.greatlakes.edu.in/chennai/family-enterprises-management">Family Enterprises Management</a></h4>-->
 
-<!--<a class="menu-read-more" href="https://www.greatlakes.edu.in/chennai/global-pgp-for-family-enterprises-management">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+						<!--<a class="menu-read-more" href="https://www.greatlakes.edu.in/chennai/global-pgp-for-family-enterprises-management">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 
 <div class="clear"> </div>
 
@@ -205,7 +201,8 @@ a.space1{
 </div>
 </div>
 </div>
-</div>---><!-- <div class="on_hover mega-menu-main mega-menu-main_new">
+</div>--->
+						<!-- <div class="on_hover mega-menu-main mega-menu-main_new">
 <div class="container-custom mega-container">
 <div class="left_menu">
 <div class="mega_menu_images_holder"><img alt="Transform and Lead" src="assets/jm/images/program-bg.jpg" title="Transform and Lead" /></div>
@@ -242,7 +239,7 @@ a.space1{
 <a class="menu-read-more pgdmmegamenulm" href="pgdm.html">Learn More <i class="fa fa-angle-right pgdmmegamenulm" aria-hidden="true"></i></a>
 <a rel="nofollow" class="menu-read-more2 pgdmmegamenuan" href="https://application.greatlakes.edu.in/" target="_blank">Apply Now <i class="fa fa-angle-right pgdmmegamenuan" aria-hidden="true"></i></a>
 <span class="date-div-col">APP. Deadline: 14<sup>th</sup> April, 2021</span>-->
-<!-- <span class="date-div-col">Admissions Open!</span>
+						<!-- <span class="date-div-col">Admissions Open!</span>
 
 <div class="clear"> </div> 
 
@@ -286,16 +283,16 @@ a.space1{
 
 <!--<h4 class="mega-menu-head2 mega_menu_margin_top40 mega-menu-head-pad"><a href="https://www.greatlakes.edu.in/chennai/mba-in-business-analytics">MBA in Business Analytics</a></h4>-->
 
-<!--<span class="date-div-col">APP. Deadline: 15<sup>th</sup> July, 2019</span>-->
+						<!--<span class="date-div-col">APP. Deadline: 15<sup>th</sup> July, 2019</span>-->
 
-<!--<a class="menu-read-more" href="https://www.greatlakes.edu.in/chennai/mba-in-business-analytics">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+						<!--<a class="menu-read-more" href="https://www.greatlakes.edu.in/chennai/mba-in-business-analytics">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 
 <div class="clear"> </div>
 
 
 <h4 class="mega-menu-head2 mega_menu_margin_top40 mega-menu-head-pad programs-menu-div"><a href="https://www.greatlakes.edu.in/chennai/family-enterprises-management">Family Enterprises Management</a></h4>-->
 
-<!--<a class="menu-read-more" href="https://www.greatlakes.edu.in/chennai/global-pgp-for-family-enterprises-management">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+						<!--<a class="menu-read-more" href="https://www.greatlakes.edu.in/chennai/global-pgp-for-family-enterprises-management">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 
 <div class="clear"> </div>
 
@@ -306,80 +303,82 @@ a.space1{
 </div>
 </div>
 </div> -->
-</li>
+					</li>
 
 
-        
-          <!--about li end here-->
-<li class="nav-item mega_hover_effect"><a class="nav-link" href="javascript:;" id="fac">Faculities</a>
-<div class="on_hover mega-menu-main mega-menu-main-1">
-	<div class="container-custom mega-container">
-	<div class="left_menu">
-	<div class="mega_menu_images_holder"><img alt="Ranked 6th" src="https://jim.ac.in/images/Gallery/Infrastructure/2021/5-1626518496.jpg" title="Ranked 6th" /></div>
 
-	<div class="mega_holder_content_container">
-	<h3 class="program_para_num" style=""><span>Our Faculty  </span></h3>
+					<!--about li end here-->
+					<li class="nav-item mega_hover_effect">
+						<a class="nav-link" href="javascript:;" id="fac">Faculities</a>
+						<div class="on_hover mega-menu-main mega-menu-main-1">
+							<div class="container-custom mega-container">
+								<div class="left_menu">
+									<div class="mega_menu_images_holder"><img alt="Ranked 6th" src="https://jim.ac.in/images/Gallery/Infrastructure/2021/5-1626518496.jpg" title="Ranked 6th" /></div>
 
-	<p class="program_para" style="display:none">by NIRF ranking in teaching and learning among all B-Schools in the country</p>
-	</div>
-	</div>
+									<div class="mega_holder_content_container">
+										<h3 class="program_para_num" style=""><span>Our Faculty </span></h3>
 
-	<div class="right_menu">
-	<div class="row">
-	<div class="col-sm-6 mega-menu-part">
-	<div class="mega_menu_part_inner_holder "><!--<p>Ranked 6th in NIRF ranking in teaching and learning</p>-->
-	<h3 class="mega-menu-head2 mega-menu-head-pad"><a href="faculty.html">Faculty</a></h3>
+										<p class="program_para" style="display:none">by NIRF ranking in teaching and learning among all B-Schools in the country</p>
+									</div>
+								</div>
 
-	<ul class="mega_menu_margin_top10">
-		<li><a href="faculty-category/full-time-faculty.html">Full Time Faculty</a></li>
-		<li><a href="faculty-category/visiting-faculty.html">Visiting Faculty</a></li>
-		<li><a href="faculty-category/adjunct-faculty.html">Adjunct Faculty</a></li>
-	</ul>
+								<div class="right_menu">
+									<div class="row">
+										<div class="col-sm-6 mega-menu-part">
+											<div class="mega_menu_part_inner_holder ">
+												<!--<p>Ranked 6th in NIRF ranking in teaching and learning</p>-->
+												<h3 class="mega-menu-head2 mega-menu-head-pad"><a href="faculty.html">Faculty</a></h3>
 
-	<h3 style="display:none" class="mega-menu-head2 mega-menu-head2-new mega_menu_margin_top40 mega-menu-head-pad"><a href="faculty/research.html">Research</a></h3>
+												<ul class="mega_menu_margin_top10">
+													<li><a href="faculty-category/full-time-faculty.html">Full Time Faculty</a></li>
+													<li><a href="faculty-category/visiting-faculty.html">Visiting Faculty</a></li>
+													<li><a href="faculty-category/adjunct-faculty.html">Adjunct Faculty</a></li>
+												</ul>
+
+												<h3 style="display:none" class="mega-menu-head2 mega-menu-head2-new mega_menu_margin_top40 mega-menu-head-pad"><a href="faculty/research.html">Research</a></h3>
 
 
-<ul class="mega_menu_margin_top10" style="display:none">
-<li><a href="faculty/faculty-editors.html">Faculty Editors</a></li>
-<li><a href="faculty-research/papers-and-journal-publications.html">Papers & Journal Publications</a></li>
-<li><a href="faculty-research/case-studies-and-books.html">Case Studies & Books</a></li>
-<li><a href="faculty-research/conference-proceedings.html">Conference Proceedings</a></li>
-</ul>
-	</div>
-	</div>
+												<ul class="mega_menu_margin_top10" style="display:none">
+													<li><a href="faculty/faculty-editors.html">Faculty Editors</a></li>
+													<li><a href="faculty-research/papers-and-journal-publications.html">Papers & Journal Publications</a></li>
+													<li><a href="faculty-research/case-studies-and-books.html">Case Studies & Books</a></li>
+													<li><a href="faculty-research/conference-proceedings.html">Conference Proceedings</a></li>
+												</ul>
+											</div>
+										</div>
 
-	<div class="col-sm-6 mega-menu-part" style="display:none">
-	<div class="mega_menu_part_inner_holder new custom-menu  padding-right-mega mega-margin-bottom">
-	<h3 class="mega-menu-head2 mega-menu-head-pad"><a href="coe.html">Centers of Excellence</a></h3>
+										<div class="col-sm-6 mega-menu-part" style="display:none">
+											<div class="mega_menu_part_inner_holder new custom-menu  padding-right-mega mega-margin-bottom">
+												<h3 class="mega-menu-head2 mega-menu-head-pad"><a href="coe.html">Centers of Excellence</a></h3>
 
-	<ul class="mega_menu_margin_top10 new-mega">
-		<li><a href="coe/centre-for-excellence-in-retail-management.html">Centre For Excellence in Retail Management</a></li>
-		<li><a href="coe/great-lakes-center-for-management-research.html">Great Lakes Centre For Management Research</a></li>
-		<li><a href="coe/kotler-srinivasan-centre-for-research-in-marketing.html">Kotler - Srinivasan Centre for Research in Marketing</a></li>
-		
-        <li><a href="coe/centre-for-excellence-in-business-analytics-and-business-intelligence.html">Centre for Excellence in Business Analytics and Business Intelligence</a></li>
-        
-        <li><a href="coe/cet.html">CET</a></li>
-        
-        <li><a href="coe/union-bank-center-for-banking-excellence.html">Union Bank Centre for Banking Excellence</a></li>
-        
-        <li><a href="coe/centre-for-sports-management-analytics.html">Centre for Sports Management & Analytics</a></li>
-		
-	</ul>
+												<ul class="mega_menu_margin_top10 new-mega">
+													<li><a href="coe/centre-for-excellence-in-retail-management.html">Centre For Excellence in Retail Management</a></li>
+													<li><a href="coe/great-lakes-center-for-management-research.html">Great Lakes Centre For Management Research</a></li>
+													<li><a href="coe/kotler-srinivasan-centre-for-research-in-marketing.html">Kotler - Srinivasan Centre for Research in Marketing</a></li>
 
-	<h3 class="mega-menu-head2 mega_menu_margin_top40 mega-menu-head-pad"><a href="conferences.html">Conferences</a></h3>
+													<li><a href="coe/centre-for-excellence-in-business-analytics-and-business-intelligence.html">Centre for Excellence in Business Analytics and Business Intelligence</a></li>
 
-	<ul class="mega_menu_margin_top10">
-		<li><a href="conferences/nasmei.html">NASMEI</a></li>
-		<li><a href="conferences/financial-conference.html">Financial Conference</a></li>
-	</ul>
-	</div>
-	</div>
-	</div>
-	</div>
-	</div>
-	</div>
-	<!-- <div class="on_hover mega-menu-main mega-menu-main-1">
+													<li><a href="coe/cet.html">CET</a></li>
+
+													<li><a href="coe/union-bank-center-for-banking-excellence.html">Union Bank Centre for Banking Excellence</a></li>
+
+													<li><a href="coe/centre-for-sports-management-analytics.html">Centre for Sports Management & Analytics</a></li>
+
+												</ul>
+
+												<h3 class="mega-menu-head2 mega_menu_margin_top40 mega-menu-head-pad"><a href="conferences.html">Conferences</a></h3>
+
+												<ul class="mega_menu_margin_top10">
+													<li><a href="conferences/nasmei.html">NASMEI</a></li>
+													<li><a href="conferences/financial-conference.html">Financial Conference</a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- <div class="on_hover mega-menu-main mega-menu-main-1">
 	<div class="container-custom mega-container">
 	<div class="left_menu">
 	<div class="mega_menu_images_holder"><img alt="Ranked 6th" src="assets/jm/images/research-bg.jpg" title="Ranked 6th" /></div>
@@ -452,9 +451,9 @@ a.space1{
 	</div>
 	</div>
 	</div> -->
-	</li>
+					</li>
 
-          	<!-- <li class="nav-item mega_hover_effect"><a class="nav-link" href="javascript:;" id="rec">Students</a>
+					<!-- <li class="nav-item mega_hover_effect"><a class="nav-link" href="javascript:;" id="rec">Students</a>
 	<div class="on_hover mega-menu-main mega-menu-main_new2">
 	<div class="container-custom mega-container">
 	<div class="left_menu">
@@ -526,11 +525,11 @@ a.space1{
 	</div>
 	</li> -->
 
-          <li class="nav-item mega_hover_effect"> <a rel="nofollow" class="nav-link disabled" href="#"  target="">Training & Placements</a></li>   
-		  <li class="nav-item mega_hover_effect"> <a rel="nofollow" class="nav-link disabled" href="#"  target="">Life@JIM</a></li>
-		  
-		  <li class="nav-item mega_hover_effect"> <a rel="nofollow" class="nav-link disabled" href="#"  target="">About</a></li>
-		   <!-- <li class="nav-item mega_hover_effect"><a class="nav-link" href="javascript:;" id="abt">About</a>
+					<li class="nav-item mega_hover_effect"> <a rel="nofollow" class="nav-link disabled" href="#" target="">Training & Placements</a></li>
+					<li class="nav-item mega_hover_effect"> <a rel="nofollow" class="nav-link disabled" href="#" target="">Life@JIM</a></li>
+
+					<li class="nav-item mega_hover_effect"> <a rel="nofollow" class="nav-link disabled" href="#" target="">About</a></li>
+					<!-- <li class="nav-item mega_hover_effect"><a class="nav-link" href="javascript:;" id="abt">About</a>
 
 		  <div class="on_hover mega-menu-main">
 <div class="container-custom mega-container">
@@ -540,18 +539,18 @@ a.space1{
 <p class="img-text" style=" font-family: montserratextrabold; text-transform: uppercase;">Asia’s 1<sup style="font-size:20px;">st</sup> LEED Platinum Rated Campus</p>
 </div> -->
 
-<!-- <div class="right_menu">
+					<!-- <div class="right_menu">
 <div class="mega_menu_part_inner_holder">
 <div class="row">
 <div class="col-sm-6">
 <h3 class="mega-menu-head2 mega-menu-head-pad"><a href="about-us.html">About Us</a></h3> -->
 
-<!-- <ul class="mega_menu_margin_top10">
+					<!-- <ul class="mega_menu_margin_top10">
 <li><a href="about-us/chairmans-message.html">Chairman's Message</a></li>
 
 <li><a href="about-us/vice-chairman-and-ceo-message.html">Vice Chairman & CEO</a></li> -->
 
-<!-- <li><a href="about-us/message-from-the-dean.html">Dean's Message</a></li>
+					<!-- <li><a href="about-us/message-from-the-dean.html">Dean's Message</a></li>
 <li><a href="about-us/governing-council.html">Governing Council</a></li>
 <li><a href="about-us/business-advisory-council.html">Business Advisory Council</a></li>
 <li><a href="about-us/academic-advisory-council.html">Academic Advisory Council</a></li>
@@ -561,7 +560,7 @@ a.space1{
 <li><a href="about-us/anti-ragging-notice.html">Anti-Ragging Notice</a></li>
 </ul> -->
 
-<!-- <h3 class="mega-menu-head2 term-zero-menu"><a href="term-zero.html">TERM ZERO</a></h3>
+					<!-- <h3 class="mega-menu-head2 term-zero-menu"><a href="term-zero.html">TERM ZERO</a></h3>
 
 <div class="clear"> </div>
 
@@ -624,23 +623,23 @@ a.space1{
 </div>
 </div>
 </li>-->
-		  <li class="nav-item mega_hover_effect"> <a rel="nofollow" class="nav-link disabled" href="alumni/index.html"  target="_blank">Contact</a></li>
-		</ul>
-        <div class="column">
+					<li class="nav-item mega_hover_effect"> <a rel="nofollow" class="nav-link disabled" href="alumni/index.html" target="_blank">Contact</a></li>
+				</ul>
+				<div class="column">
 					<div id="sb-search" class="sb-search">
-<form action="https://www.greatlakes.edu.in/chennai/search" method="get">
+						<form action="https://www.greatlakes.edu.in/chennai/search" method="get">
 							<input class="sb-search-input" placeholder="Search" type="text" value="" name="keywords" id="keywords">
 							<input class="sb-search-submit" type="submit" value="">
 							<!-- <span class="sb-icon-search" id="zzz" style="display:none;"><img src="assets/jm/images/new-search.png" alt="Search Icon" title="Search Icon"/></span> -->
 						</form>
 					</div>
 				</div>
-      
-        <bdo id="wwww" style="display:none;">
-        <!-- <a href="#" id="offcanv_menu_1" class="pgpm-menu home_page only-home-page" onClick="disableDiv();"></a> -->
-        </bdo>
-      </div>
-    </nav>
-  </div>
-  </div>
-    <!--Header-->
+
+				<bdo id="wwww" style="display:none;">
+					<!-- <a href="#" id="offcanv_menu_1" class="pgpm-menu home_page only-home-page" onClick="disableDiv();"></a> -->
+				</bdo>
+			</div>
+		</nav>
+	</div>
+</div>
+<!--Header-->

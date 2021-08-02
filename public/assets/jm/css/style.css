@@ -95,7 +95,7 @@ body {
 	color: #4caf50!important;
 }
 .nav-item:hover .nav-link, .nav-item:focus .nav-link  {
-    color: #4caf50!important;
+    color: #ffc600!important;
 }
 
 .mega-menu-main::after, .mega-menu-main_new::after, .mega-menu-main-1::after, .mega-menu-main_new2::after{
@@ -489,8 +489,8 @@ transition: all 0.3s ease-out;
 .navbar-expand-md .navbar-nav .nav-link {
 	font-weight: 700;
 	text-transform: uppercase;
-	color: #636262;
-	font-size: 16px;
+	color: #650819;
+	font-size: 14px;
 	line-height: 33px;
 	font-family: Montserrat, sans-serif;
 }
@@ -614,7 +614,7 @@ li.margintop10.offCanvas_menu_has_children {
 	position: relative;
 	height: auto;
 	overflow: hidden;
-	margin-top:-25px;
+	margin-top: -45px;
 }
 /*.transform_content {
 	position: absolute;
@@ -638,7 +638,7 @@ li.margintop10.offCanvas_menu_has_children {
     padding: 0 88px;
     -webkit-clip-path: polygon(0 0, 94% 0, 100% 100%, 0 100%);
 	clip-path: polygon(0 0, 94% 0, 100% 100%, 0 100%);
-	background-image: -webkit-linear-gradient(120deg, rgba(248, 36, 142, 9) -90%, rgba(76 7 5) 100%);
+	background-image: -webkit-linear-gradient(120deg, rgb(157,157,157) -90%, rgb(76 7 5) 100%);
 	background-image: -ms-linear-gradient(120deg, rgba(137,214,99,9) -90%, rgba(44,121,175,9) 100%);
 
 }
@@ -990,7 +990,7 @@ padding:0 .5rem;
 	margin-bottom: 0
 }
 .tab_panel {
-	background-image: url(../images/tab-bg.jpg);
+	background-image: url(../images/our_students.jpg);
 	background-repeat: no-repeat;
 	background-position: 0;
 	background-size: cover;
@@ -1073,11 +1073,11 @@ padding:0 .5rem;
 }
 .tab_panel .inner-pgpm-pgdm .main-head-main {
 	text-align: left;
-	color: #fff;
+	color: #e8f517;
 	margin-bottom: 20px
 }
 .tab_panel .inner-pgpm-pgdm p {
-	color: #fff;
+	color: #e8f517;
 	margin: 0;
 	font-size: 16px;
 	line-height: 30px;
@@ -5073,7 +5073,7 @@ html.offCanvas_open body .onCanvas {
 	padding-top: 35px
 }
 .management-new .main-head-main {
-	color: #4caf50;
+	color: #650819;
 	font-size: 30px;
 	line-height: 33px;
 	font-weight: 700;
@@ -8531,7 +8531,7 @@ p.padd-decrease {
     border-bottom: 1px solid rgba(255, 255, 255, 0.5);
 }
 footer.nb-footer {
-    background: #4caf50;
+    background: #d68a18;
     padding: 20px 0px 26px 0px;
     float: left;
     width: 100%;
@@ -8609,7 +8609,7 @@ color: #ffffff; }
 footer.nb-footer .copyright {
 	float: left;
     margin-bottom: 0;
-    background: #4caf50;
+    background: #d68a18;
     padding: 30px 0 20px 15px;
     color: #ffffff;
     font-family: Montserrat, sans-serif;
