@@ -72,29 +72,15 @@
                 <section class="design transform desk-slider" data-section-name="design">
                     <div class="transform_lead">
                         <section class="regular slider">
-                            <div style="position:relative; display:none;" class="vvv"> <img alt="JIM students" title="JIM students" width="50" height="500" src="https://jim.ac.in/images/Exe-Director.jpg">
-                                <div class="transform_content for-home-mobile">
-                                    <div class="transform_table">
-                                        <div class="tranform_table_cell slider11">
-                                            <div class="main-head-two">
-                                                <div class="karma_yoga_text world_text">Director's Message</div>
-                                            </div>
-                                            <p>St. Joseph’s Institute of Management (JIM) is a place of learning. It aims at forming men and women of Character, Commitment and Compassion.<br /></p>
-
-                                            <div class="common-btn">
-                                                <a href="recruiters/placement-process.html">Read more <i class="fa fa-angle-right" aria-hidden="true"></i> </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <?php print_r($sliders);?>
+                            @foreach($sliders as $s)
                             <div style="position:relative; display:none;" class="vvv">
                                 <img alt="JIM students" title="JIM students" width="50" height="500" src="https://jim.ac.in/images/Gallery/Infrastructure/2021/110A9970_1200x850%20(2)-1626678909.jpg">
                                 <div class="transform_content for-home-mobile">
                                     <div class="transform_table">
                                         <div class="tranform_table_cell slider12">
                                             <div class="main-head-two">
-                                                <div class="karma_yoga_text world_text">CAMPUS PLACEMENTS 2021</div>
+                                                <div class="karma_yoga_text world_text">{{$s->title}}</div>
                                             </div>
                                             <p>JIM Recruitment Program 2021</p>
                                             <div class="common-btn">
@@ -105,7 +91,7 @@
                                     </div>
                                 </div>
                             </div>
-
+@endforeach
 
                             </span>
                         </section>
