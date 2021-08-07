@@ -12244,6 +12244,7 @@ section.design.news-page-holder.news-page-holder-bg.news-div .transform_lead.onl
 }
 .mega-menu-main::after {
     left: -17%;
+	display: none;
 }
 .mega-menu-main_new::after   {
     left: -1%;
