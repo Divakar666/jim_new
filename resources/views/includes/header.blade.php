@@ -101,9 +101,9 @@
 						<div class="on_hover mega-menu-main">
 							<div class="container-custom mega-container">
 								<div class="left_menu">
-									<div class="mega_menu_images_holder"><img alt="Asia’s 1 st LEED Platinum Rated Campus" src="assets/jm/images/about_mega.jpg" title="Asia’s 1 st LEED Platinum Rated Campus" /></div>
+									<div class="mega_menu_images_holder"><img alt="Asia’s 1 st LEED Platinum Rated Campus" src="jim-images/academics/academic-image1.jpg" title="Asia’s 1 st LEED Platinum Rated Campus" /></div>
 
-									<p class="img-text" style=" font-family: montserratextrabold; text-transform: uppercase;">Asia’s 1<sup style="font-size:20px;">st</sup> LEED Platinum Rated Campus</p>
+									<p class="img-text" style=" font-family: montserratextrabold; text-transform: uppercase;">Academics</p>
 								</div>
 
 								<div class="right_menu">
@@ -244,9 +244,11 @@
 						<div class="on_hover mega-menu-main mega-menu-main_new">
 							<div class="container-custom mega-container">
 								<div class="left_menu">
-									<div class="mega_menu_images_holder"><img alt="Transform and Lead" src="assets/jm/images/program-bg.jpg" title="Transform and Lead" /></div>
+									<div class="mega_menu_images_holder"><img alt="Training & Placements" src="jim-images/traning-placements/traning-placements1.jpg" title="Ranked 6th" /></div>
 
-									<p class="img-text" style=" font-family: montserratextrabold;    text-transform: uppercase;">Transform and Lead</p>
+									<div class="mega_holder_content_container">
+										<h3 class="program_para_num" style=""><span>Training & Placements</span></h3>
+									</div>
 								</div>
 
 								<div class="right_menu">
@@ -308,7 +310,10 @@
 
 													<div class="clear"> </div>
 
-												</div>
+													<li><a href="#">Our Recruiters</a></li>
+													<li><a href="#">Brouchers</a></li>
+													<li><a href="#">Students Training</a></li>
+												</ul>
 											</div>
 										</div>
 									</div>
@@ -316,6 +321,7 @@
 							</div>
 						</div>
 					</li>
+
 					<!-- Traning And placements  Menu End  -->
 					<!-- Life@jim  Menu Start  -->
 					<li class="nav-item mega_hover_effect"> <a rel="nofollow" class="nav-link disabled" href="#" target="">Placements</a>
@@ -323,8 +329,8 @@
 						<div class="on_hover mega-menu-main mega-menu-main_new">
 							<div class="container-custom mega-container">
 								<div class="left_menu">
-									<div class="mega_menu_images_holder"><img alt="Transform and Lead" src="assets/jm/images/program-bg.jpg" title="Transform and Lead" /></div>
-									<p class="img-text" style=" font-family: montserratextrabold;    text-transform: uppercase;">Transform and Lead</p>
+									<div class="mega_menu_images_holder"><img alt="life@jim" src="jim-images/life@jim/life_at_jim1.jpg" title="Life@Jim" /></div>
+									<p class="img-text" style=" font-family: montserratextrabold;    text-transform: uppercase;">Life @ JIM</p>
 								</div>
 
 								<div class="right_menu">
@@ -371,9 +377,9 @@
 
 
 
-													<div class="clear"> </div>
+													<li><a href="#">Facilities</a></li>
 
-												</div>
+												</ul>
 											</div>
 										</div>
 									</div>
@@ -388,8 +394,8 @@
 						<div class="on_hover mega-menu-main mega-menu-main_new">
 							<div class="container-custom mega-container">
 								<div class="left_menu">
-									<div class="mega_menu_images_holder"><img alt="Transform and Lead" src="assets/jm/images/program-bg.jpg" title="Transform and Lead" /></div>
-									<p class="img-text" style=" font-family: montserratextrabold;    text-transform: uppercase;">Transform and Lead</p>
+									<div class="mega_menu_images_holder"><img alt="life@jim" src="jim-images/events/events1.jpg" title="Events@Jim" /></div>
+									<p class="img-text" style=" font-family: montserratextrabold;    text-transform: uppercase;">Events</p>
 								</div>
 
 								<div class="right_menu">
@@ -442,7 +448,10 @@
 
 													<div class="clear"> </div>
 
-												</div>
+													<li><a href="#">Events Photo Gallery</a></li>
+													<li><a href="#">Guest Speakers</a></li>
+													<li><a href="#">CEO Of Month</a></li>
+												</ul>
 											</div>
 										</div>
 									</div>
@@ -455,6 +464,17 @@
 					<li class="nav-item mega_hover_effect"> <a rel="nofollow" class="nav-link disabled" href="#" target="">Contact</a>
 			
 					</li>
+					<!-- Alumini  Menu End  -->
+					<!-- About   Menu Start  -->
+					<li class="nav-item mega_hover_effect"> <a rel="nofollow" class="nav-link disabled" href="#" target="">About JIM</a>
+
+
+					</li>
+					<!--About  Menu End  -->
+					<!--Contact  Menu Start  -->
+					<li class="nav-item mega_hover_effect"> <a rel="nofollow" class="nav-link disabled" href="#" target="">Contact</a>
+					</li>
+
 					<!-- COntact Menu End  -->
 				</ul>
 				<div class="column">
